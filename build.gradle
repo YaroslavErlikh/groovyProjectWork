@@ -1,3 +1,15 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        maven { url "https://plugins.gradle.org/m2/" }
+    }
+    dependencies {
+        classpath "gradle.plugin.com.github.erdi.webdriver-binaries:webdriver-binaries-gradle-plugin:2.6"
+        classpath "com.bertramlabs.plugins:asset-pipeline-gradle:3.4.7"
+        classpath "com.google.cloud.tools:jib-gradle-plugin:3.3.1"
+    }
+}
+
 plugins {
     id 'groovy'
     id 'org.springframework.boot' version '3.0.6'
@@ -7,6 +19,12 @@ plugins {
 group = 'ru.erlikh'
 version = '0.0.1'
 sourceCompatibility = '17'
+
+apply plugin:"idea"
+apply plugin:"war"
+apply plugin:"com.github.erdi.webdriver-binaries"
+apply plugin:"com.bertramlabs.asset-pipeline"
+apply plugin:"com.google.cloud.tools.jib"
 
 repositories {
     mavenCentral()
@@ -20,6 +38,7 @@ dependencies {
     implementation 'org.codehaus.groovy:groovy-all:3.0.17'
     implementation 'commons-codec:commons-codec:1.15'
     implementation 'org.springframework.boot:spring-boot-starter-thymeleaf:3.0.6'
+    implementation 'org.codehaus.gpars:gpars:1.2.1'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
     runtimeOnly 'org.postgresql:postgresql'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
@@ -31,4 +50,57 @@ dependencies {
 
 tasks.named('test') {
     useJUnitPlatform()
+}
+
+webdriverBinaries {
+    if (!System.getenv().containsKey('GITHUB_ACTIONS')) {
+        chromedriver {
+            version = '2.45.0'
+            fallbackTo32Bit = true
+        }
+        geckodriver '0.30.0'
+    }
+}
+
+tasks.withType(Test) {
+    if (!System.getenv().containsKey('GITHUB_ACTIONS')) {
+        systemProperty 'webdriver.chrome.driver', System.getProperty('webdriver.chrome.driver')
+        systemProperty 'webdriver.gecko.driver', System.getProperty('webdriver.gecko.driver')
+    } else {
+        systemProperty 'webdriver.chrome.driver', "${System.getenv('CHROMEWEBDRIVER')}/chromedriver"
+        systemProperty 'webdriver.gecko.driver', "${System.getenv('GECKOWEBDRIVER')}/geckodriver"
+    }
+}
+
+task renameArtifacts (type: Copy) {
+    from ('./build/libs/')
+    include "groovyProjectWork-${version}.war"
+    destinationDir file('./build/libs/')
+    rename "groovyProjectWork-${version}.war", "ROOT.war"
+}
+
+apply plugin: "com.google.cloud.tools.jib"
+
+jib {
+    from {
+        image = "tomcat:8.5"
+    }
+    to {
+        image = "YaroslavErlikh/${rootProject.name}_groovyProjectWork"
+        tags = ["${project.version}"]
+    }
+    extraDirectories {
+        paths {
+            path {
+                from = "./build/libs/"
+                into = "/usr/local/tomcat/webapps/"
+                includes = ["ROOT.war"]
+            }
+        }
+    }
+    container {
+        creationTime = Instant.now().toString()
+        ports = ['8080']
+        appRoot = '/usr/local/tomcat/webapps'
+    }
 }
