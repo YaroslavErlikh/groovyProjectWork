@@ -1,0 +1,32 @@
+name: groovyProjectWork
+version: "0.0.1"
+services:
+  projectWork:
+    image: YaroslavErlikh/groovy_project_work:0.0.1
+    container_name: project_work
+    ports:
+      - "8080:8080"
+    networks:
+      - projectapp_lan
+
+  jenkins:
+    image: jenkins/jenkins:lts
+    container_name: jenkins
+    environment:
+      - JENKINS_OPTS="--httpPort=8888"
+    privileged: true
+    user: root
+    ports:
+      - 8888:8888
+      - 50000:50000
+    volumes:
+      - /var/lib/docker/volumes/jenkins/_data/jenkins/var/jenkins_home:/var/jenkins_home
+      - /var/lib/docker/volumes/jenkins/_data/jenkins/root:/root
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /usr/bin/docker:/usr/bin/docker
+    networks:
+      - projectapp_lan
+
+networks:
+  projectapp_lan:
+    driver: bridge

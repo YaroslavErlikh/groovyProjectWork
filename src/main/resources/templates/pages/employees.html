@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+</head>
+<body>
+
+<table border="2">
+    <tr>
+        <th>uid</th>
+        <th>id</th>
+        <th>userName</th>
+        <th>firstName</th>
+        <th>lastName</th>
+        <th>middleName</th>
+        <th>employeeNumber</th>
+        <th>email</th>
+        <th>isDismissed</th>
+        <th>dateOfBirth</th>
+        <th>positionId</th>
+        <th>admManagerEmployeeId</th>
+        <th>funcManagerEmployeeId</th>
+        <th>isBasic</th>
+        <th>e1Phone</th>
+        <th>m1Phone</th>
+        <th>hash</th>
+        <th>isDeleted</th>
+        <th>insertTimestamp</th>
+        <th>modifyTimestamp</th>
+    </tr>
+    <tr th:each="employee : ${employees}">
+        <td th:text="${employee.uid}"></td>
+        <td th:text="${employee.id}"></td>
+        <td th:text="${employee.userName}"></td>
+        <td th:text="${employee.firstName}"></td>
+        <td th:text="${employee.lastName}"></td>
+        <td th:text="${employee.middleName}"></td>
+        <td th:text="${employee.employeeNumber}"></td>
+        <td th:text="${employee.email}"></td>
+        <td th:text="${employee.isDismissed}"></td>
+        <td th:text="${employee.dateOfBirth}"></td>
+        <td th:text="${employee.positionId}"></td>
+        <td th:text="${employee.admManagerEmployeeId}"></td>
+        <td th:text="${employee.funcManagerEmployeeId}"></td>
+        <td th:text="${employee.isBasic}"></td>
+        <td th:text="${employee.e1Phone}"></td>
+        <td th:text="${employee.m1Phone}"></td>
+        <td th:text="${employee.hash}"></td>
+        <td th:text="${employee.isDeleted}"></td>
+        <td th:text="${employee.insertTimestamp}"></td>
+        <td th:text="${employee.modifyTimestamp}"></td>
+    </tr>
+</table>
+<br>
+<!--<form action="employees/update" method="get">-->
+<!--    <input type="submit" value="Обновить"/>-->
+<!--</form>-->
+<input type="button" onclick="document.location='/employees/update'" value="Обновить">
+<br>
+<br>
+<br>
+<input type="button" onclick="document.location='/'" value="Главная">
+<input type="button" onclick="history.back();" value="Назад">
+</body>
+</html>

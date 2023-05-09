@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+</head>
+<body>
+
+<table border="2">
+    <tr>
+        <th>id</th>
+        <th>name</th>
+        <th>cbr</th>
+        <th>organization</th>
+        <th>admParent</th>
+        <th>funcParent</th>
+        <th>code</th>
+        <th>equipmentTypeCode</th>
+        <th>hash</th>
+        <th>isDeleted</th>
+        <th>insertTimestamp</th>
+        <th>modifyTimestamp</th>
+    </tr>
+    <tr th:each="position : ${positions}">
+        <td th:text="${position.id}"></td>
+        <td th:text="${position.name}"></td>
+        <td th:text="${position.cbr}"></td>
+        <td th:text="${position.organization}"></td>
+        <td th:text="${position.admParent}"></td>
+        <td th:text="${position.funcParent}"></td>
+        <td th:text="${position.code}"></td>
+        <td th:text="${position.equipmentTypeCode}"></td>
+        <td th:text="${position.hash}"></td>
+        <td th:text="${position.isDeleted}"></td>
+        <td th:text="${position.insertTimestamp}"></td>
+        <td th:text="${position.modifyTimestamp}"></td>
+    </tr>
+</table>
+<br>
+<form action="update" method="get">
+    <input type="submit" value="Обновить"/>
+</form>
+<br>
+<br>
+<br>
+<input type="button" onclick="document.location='/'" value="Главная">
+<input type="button" onclick="history.back();" value="Назад">
+</body>
+</html>
