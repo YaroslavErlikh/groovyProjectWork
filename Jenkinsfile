@@ -7,7 +7,7 @@ properties([
 node {
     stage("BUILD IMAGE") {
         echo "Build image for integration tests"
-        git branch: 'main', credentialsId: 'github', url: 'git@github.com:YaroslavErlikh/groovyProjectWork.git'
+        git branch: 'main', credentialsId: 'github', url: 'git@github.com:yaroslaverlikh/groovyprojectwork.git'
 
         docker.withRegistry('https://index.docker.io/v1/', 'dockerhub') {
 

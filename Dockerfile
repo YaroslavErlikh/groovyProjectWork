@@ -1,4 +1,4 @@
-FROM jenkins/slave:latest-jdk17
+FROM jenkins/slave:latest-jdk11
 
 ENV TZ=Asia/Yekaterinburg
 ENV DEBIAN_FRONTEND=noninteractive

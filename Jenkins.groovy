@@ -8,7 +8,7 @@ def CalculateFilesCount() {
 
 def checkout(name) {
     echo "Performing Git checkout"
-    git branch: name, credentialsId: 'github', url: 'git@github.com:YaroslavErlikh/groovyProjectWork.git'
+    git branch: name, credentialsId: 'github', url: 'git@github.com:yaroslaverlikh/groovyprojectwork.git'
 }
 
 def testModule(name) {
