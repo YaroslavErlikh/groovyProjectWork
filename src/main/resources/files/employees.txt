@@ -10,7 +10,7 @@
             "last_name": "Ярцева",
             "middle_name": "Валентиновна",
             "employee_number": "45419",
-            "email": "SYartseva@vlg.beeline.ru",
+            "email": "SYartseva@vlg.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -64,7 +64,7 @@
             "last_name": "Мунаева",
             "middle_name": "Ибрагимовна",
             "employee_number": "141734",
-            "email": "KhMunaeva@grz.beeline.ru",
+            "email": "KhMunaeva@grz.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -118,7 +118,7 @@
             "last_name": "Кузнецова",
             "middle_name": "Сергеевна",
             "employee_number": "154022",
-            "email": "NKuznetsova@kmr.beeline.ru",
+            "email": "NKuznetsova@kmr.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -172,7 +172,7 @@
             "last_name": "Обибко",
             "middle_name": "Васильевна",
             "employee_number": "50595",
-            "email": "IObibko@yol.beeline.ru",
+            "email": "IObibko@yol.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -226,7 +226,7 @@
             "last_name": "Морозова",
             "middle_name": "Викторовна",
             "employee_number": "67437",
-            "email": "EMorozova@ssc.beeline.ru",
+            "email": "EMorozova@ssc.example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -280,7 +280,7 @@
             "last_name": "Борисов",
             "middle_name": "Евгеньевич",
             "employee_number": "48775",
-            "email": "DBorisov@beeline.ru",
+            "email": "DBorisov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -341,7 +341,7 @@
             "last_name": "Кулапчина",
             "middle_name": "Львовна",
             "employee_number": "42512",
-            "email": "EKulapchina@beeline.ru",
+            "email": "EKulapchina@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -395,7 +395,7 @@
             "last_name": "Смирнов",
             "middle_name": "Юрьевич",
             "employee_number": "46619",
-            "email": "YSmirnov@beeline.ru",
+            "email": "YSmirnov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -456,7 +456,7 @@
             "last_name": "Кручинина",
             "middle_name": "Петровна",
             "employee_number": "46736",
-            "email": "EKruchinina@beeline.ru",
+            "email": "EKruchinina@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -517,7 +517,7 @@
             "last_name": "Чернышова",
             "middle_name": "Витальевна",
             "employee_number": "44543",
-            "email": "YChernyshova@nnv.beeline.ru",
+            "email": "YChernyshova@nnv.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -571,7 +571,7 @@
             "last_name": "Шибаева",
             "middle_name": "Ивановна",
             "employee_number": "20197",
-            "email": "NShibaeva@beeline.ru",
+            "email": "NShibaeva@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -625,7 +625,7 @@
             "last_name": "Шахмаев",
             "middle_name": "Маратович",
             "employee_number": "45393",
-            "email": "AShakhmaev@kzn.beeline.ru",
+            "email": "AShakhmaev@kzn.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -679,7 +679,7 @@
             "last_name": "Бадмаев",
             "middle_name": "Эрдюшевич",
             "employee_number": "В50758",
-            "email": "VBadmaev@els.beeline.ru",
+            "email": "VBadmaev@els.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -720,7 +720,7 @@
             "last_name": "Гой",
             "middle_name": "Владимировна",
             "employee_number": "151509",
-            "email": "SGoy@beeline.ru",
+            "email": "SGoy@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -781,7 +781,7 @@
             "last_name": "Дорофеева",
             "middle_name": "Викторовна",
             "employee_number": "170540",
-            "email": "IVDorofeeva@beeline.ru",
+            "email": "IVDorofeeva@example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -835,7 +835,7 @@
             "last_name": "Стольский",
             "middle_name": "Андреевич",
             "employee_number": "49847",
-            "email": "VStolskiy@kaluga.beeline.ru",
+            "email": "VStolskiy@kaluga.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -896,7 +896,7 @@
             "last_name": "Мещеряков",
             "middle_name": "Юрьевич",
             "employee_number": "46982",
-            "email": "OMeshcheryakov@beeline.ru",
+            "email": "OMeshcheryakov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -950,7 +950,7 @@
             "last_name": "Телегин",
             "middle_name": "Сергеевич",
             "employee_number": "20191",
-            "email": "DTelegin@beeline.ru",
+            "email": "DTelegin@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -1004,7 +1004,7 @@
             "last_name": "Микишева",
             "middle_name": "Викторовна",
             "employee_number": "50304",
-            "email": "TMikisheva@nsk.beeline.ru",
+            "email": "TMikisheva@nsk.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -1058,7 +1058,7 @@
             "last_name": "Курочкина",
             "middle_name": "Владимировна",
             "employee_number": "47803",
-            "email": "TKurochkina@saratov.beeline.ru",
+            "email": "TKurochkina@saratov.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -1112,7 +1112,7 @@
             "last_name": "Исаев",
             "middle_name": "Ефимович",
             "employee_number": "44428",
-            "email": "AIsaev@beeline.ru",
+            "email": "AIsaev@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -1166,7 +1166,7 @@
             "last_name": "Захарова",
             "middle_name": "Михайловна",
             "employee_number": "2527",
-            "email": "IZaharova@beeline.ru",
+            "email": "IZaharova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -1220,7 +1220,7 @@
             "last_name": "Гребенникова",
             "middle_name": "Георгиевна",
             "employee_number": "45830",
-            "email": "AGrebennikova@rnd.beeline.ru",
+            "email": "AGrebennikova@rnd.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -1274,7 +1274,7 @@
             "last_name": "Бондаренко",
             "middle_name": "Анатольевич",
             "employee_number": "48188",
-            "email": "RBondarenko@vlg.beeline.ru",
+            "email": "RBondarenko@vlg.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -1335,7 +1335,7 @@
             "last_name": "Фомин",
             "middle_name": "Викторович",
             "employee_number": "48389",
-            "email": "AFomin@beeline.ru",
+            "email": "AFomin@example.ru",
             "adm_block": {
                 "id": 60452,
                 "name": "Блок по операторскому бизнесу",
@@ -1389,7 +1389,7 @@
             "last_name": "Соловьев",
             "middle_name": "Федорович",
             "employee_number": "49924",
-            "email": "SSolovev@nkz.beeline.ru",
+            "email": "SSolovev@nkz.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -1450,7 +1450,7 @@
             "last_name": "Тушин",
             "middle_name": "Владимирович",
             "employee_number": "47091",
-            "email": "ATushin@beeline.ru",
+            "email": "ATushin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -1504,7 +1504,7 @@
             "last_name": "Дядюшко",
             "middle_name": "Андреевич",
             "employee_number": "13250",
-            "email": "dya@beeline.ru",
+            "email": "dya@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -1558,7 +1558,7 @@
             "last_name": "Ряховская",
             "middle_name": "Юрьевна",
             "employee_number": "42560",
-            "email": "rgu@beeline.ru",
+            "email": "rgu@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -1612,7 +1612,7 @@
             "last_name": "Кабелина",
             "middle_name": "Михайловна",
             "employee_number": "49580",
-            "email": "EKabelina@nsk.beeline.ru",
+            "email": "EKabelina@nsk.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -1666,7 +1666,7 @@
             "last_name": "Заевский",
             "middle_name": "Сергеевич",
             "employee_number": "30077",
-            "email": "SZaevskiy@beeline.ru",
+            "email": "SZaevskiy@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -1727,7 +1727,7 @@
             "last_name": "Медведев",
             "middle_name": "Николаевич",
             "employee_number": "186",
-            "email": "IMedvedev@beeline.ru",
+            "email": "IMedvedev@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -1788,7 +1788,7 @@
             "last_name": "Антонова",
             "middle_name": "Михайловна",
             "employee_number": "12546",
-            "email": "EAntonova@beeline.ru",
+            "email": "EAntonova@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -1849,7 +1849,7 @@
             "last_name": "Киселев",
             "middle_name": "Сергеевич",
             "employee_number": "50004",
-            "email": "NSKiselev@nsk.beeline.ru",
+            "email": "NSKiselev@nsk.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -1910,7 +1910,7 @@
             "last_name": "Коробейников",
             "middle_name": "Евгеньевич",
             "employee_number": "44743",
-            "email": "AKorobeynikov@srt.beeline.ru",
+            "email": "AKorobeynikov@srt.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -1964,7 +1964,7 @@
             "last_name": "Надеждина",
             "middle_name": "Раисовна",
             "employee_number": "714",
-            "email": "julia@beeline.ru",
+            "email": "julia@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -2018,7 +2018,7 @@
             "last_name": "Пшеничная",
             "middle_name": "Михайловна",
             "employee_number": "48329",
-            "email": "OPshenichnaya@orl.beeline.ru",
+            "email": "OPshenichnaya@orl.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -2079,7 +2079,7 @@
             "last_name": "Любименко",
             "middle_name": "Федорович",
             "employee_number": "46238",
-            "email": "ALyubimenko@beeline.ru",
+            "email": "ALyubimenko@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -2133,7 +2133,7 @@
             "last_name": "Брянцев",
             "middle_name": "Евгеньевич",
             "employee_number": "44548",
-            "email": "EBryantsev@spb.beeline.ru",
+            "email": "EBryantsev@spb.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -2194,7 +2194,7 @@
             "last_name": "Сергеев",
             "middle_name": "Николаевич",
             "employee_number": "45942",
-            "email": "Alexander.Sergeev@beeline.ru",
+            "email": "Alexander.Sergeev@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -2248,7 +2248,7 @@
             "last_name": "Спицын",
             "middle_name": "Александрович",
             "employee_number": "43989",
-            "email": "PSpitsyn@beeline.ru",
+            "email": "PSpitsyn@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -2302,7 +2302,7 @@
             "last_name": "Ефимов",
             "middle_name": "Александрович",
             "employee_number": "43029",
-            "email": "VEfimov@beeline.ru",
+            "email": "VEfimov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -2363,7 +2363,7 @@
             "last_name": "Чеботарев",
             "middle_name": "Васильевич",
             "employee_number": "47385",
-            "email": "AVChebotarev@lip.beeline.ru",
+            "email": "AVChebotarev@lip.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -2417,7 +2417,7 @@
             "last_name": "Киселева",
             "middle_name": "Геннадьевна",
             "employee_number": "48191",
-            "email": "TKiseleva@vlg.beeline.ru",
+            "email": "TKiseleva@vlg.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -2471,7 +2471,7 @@
             "last_name": "Павлова",
             "middle_name": "Александровна",
             "employee_number": "147085",
-            "email": "OkAPavlova@beeline.ru",
+            "email": "OkAPavlova@example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -2517,7 +2517,7 @@
             "last_name": "Гриценко",
             "middle_name": "Петрович",
             "employee_number": "43603",
-            "email": "GGritsenko@beeline.ru",
+            "email": "GGritsenko@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -2578,7 +2578,7 @@
             "last_name": "Тешева",
             "middle_name": "Нурбиевна",
             "employee_number": "46535",
-            "email": "ATesheva@mkp.beeline.ru",
+            "email": "ATesheva@mkp.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -2632,7 +2632,7 @@
             "last_name": "Самсонова",
             "middle_name": "Владимировна",
             "employee_number": "157354",
-            "email": "ISamsonova@rnd.beeline.ru",
+            "email": "ISamsonova@rnd.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -2686,7 +2686,7 @@
             "last_name": "Личагина",
             "middle_name": "Валерьевна",
             "employee_number": "В234360",
-            "email": "ELichagina@rnd.beeline.ru",
+            "email": "ELichagina@rnd.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -2720,7 +2720,7 @@
             "last_name": "Гордеева",
             "middle_name": "Владимировна",
             "employee_number": "49748",
-            "email": "EGordeeva@tmb.beeline.ru",
+            "email": "EGordeeva@tmb.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -2774,7 +2774,7 @@
             "last_name": "Шушпанников",
             "middle_name": "Михайлович",
             "employee_number": "43450",
-            "email": "EShushpannikov@beeline.ru",
+            "email": "EShushpannikov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -2835,7 +2835,7 @@
             "last_name": "Токарев",
             "middle_name": "Станиславович",
             "employee_number": "42421",
-            "email": "YTokarev@beeline.ru",
+            "email": "YTokarev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -2889,7 +2889,7 @@
             "last_name": "Дорофеева",
             "middle_name": "Михайловна",
             "employee_number": "44813",
-            "email": "SDorofeeva@ufa.beeline.ru",
+            "email": "SDorofeeva@ufa.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -2943,7 +2943,7 @@
             "last_name": "Зимовщиков",
             "middle_name": "Сергеевич",
             "employee_number": "462",
-            "email": "Winter@beeline.ru",
+            "email": "Winter@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -2997,7 +2997,7 @@
             "last_name": "Булдакова",
             "middle_name": "Викторовна",
             "employee_number": "45607",
-            "email": "EBuldakova@nsk.beeline.ru",
+            "email": "EBuldakova@nsk.example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -3058,7 +3058,7 @@
             "last_name": "Ерушова",
             "middle_name": "Геннадьевна",
             "employee_number": "2579",
-            "email": "IErushova@beeline.ru",
+            "email": "IErushova@example.ru",
             "adm_block": {
                 "id": 30335,
                 "name": "Блок по качеству и клиентскому опыту",
@@ -3112,7 +3112,7 @@
             "last_name": "Лазарев",
             "middle_name": "Борисович",
             "employee_number": "49128",
-            "email": "SLazarev@ivn.beeline.ru",
+            "email": "SLazarev@ivn.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -3173,7 +3173,7 @@
             "last_name": "Павлова",
             "middle_name": "Анатольевна",
             "employee_number": "908",
-            "email": "SPavlova@beeline.ru",
+            "email": "SPavlova@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -3227,7 +3227,7 @@
             "last_name": "Надежкин",
             "middle_name": "Аркадьевич",
             "employee_number": "В274096",
-            "email": "GNadezhkin@beeline.ru",
+            "email": "GNadezhkin@example.ru",
             "adm_block": null,
             "func_block": null,
             "phone_set": [
@@ -3253,7 +3253,7 @@
             "last_name": "Мензульский",
             "middle_name": "Викторович",
             "employee_number": "42714",
-            "email": "DmMenzulskiy@beeline.ru",
+            "email": "DmMenzulskiy@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -3307,7 +3307,7 @@
             "last_name": "Степанищева",
             "middle_name": "Викторовна",
             "employee_number": "46829",
-            "email": "YStepanishcheva@saratov.beeline.ru",
+            "email": "YStepanishcheva@saratov.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -3361,7 +3361,7 @@
             "last_name": "Коваль",
             "middle_name": "Анатольевна",
             "employee_number": "49579",
-            "email": "OKoval@nsk.beeline.ru",
+            "email": "OKoval@nsk.example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -3415,7 +3415,7 @@
             "last_name": "Спицын",
             "middle_name": "Александрович",
             "employee_number": "44444",
-            "email": "BSpitsyn@beeline.ru",
+            "email": "BSpitsyn@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -3469,7 +3469,7 @@
             "last_name": "Малясов",
             "middle_name": "Николаевич",
             "employee_number": "45078",
-            "email": "VMalyasov@smolensk.beeline.ru",
+            "email": "VMalyasov@smolensk.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -3530,7 +3530,7 @@
             "last_name": "Наконечная",
             "middle_name": "Юрьевна",
             "employee_number": "44842",
-            "email": "SNakonechnaya@ssc.beeline.ru",
+            "email": "SNakonechnaya@ssc.example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -3584,7 +3584,7 @@
             "last_name": "Храбров",
             "middle_name": "Рудольфович",
             "employee_number": "953",
-            "email": "YKhrabrov@beeline.ru",
+            "email": "YKhrabrov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -3638,7 +3638,7 @@
             "last_name": "Андрейчев",
             "middle_name": "Вячеславович",
             "employee_number": "44427",
-            "email": "YAndreychev@beeline.ru",
+            "email": "YAndreychev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -3699,7 +3699,7 @@
             "last_name": "Орешкина",
             "middle_name": "Николаевна",
             "employee_number": "44793",
-            "email": "SOreshkina@spb.beeline.ru",
+            "email": "SOreshkina@spb.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -3760,7 +3760,7 @@
             "last_name": "Маркина",
             "middle_name": "Михайловна",
             "employee_number": "45225",
-            "email": "OMarkina@beeline.ru",
+            "email": "OMarkina@example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -3814,7 +3814,7 @@
             "last_name": "Силиванова",
             "middle_name": "Анатольевна",
             "employee_number": "50207",
-            "email": "ISilivanova@rnd.beeline.ru",
+            "email": "ISilivanova@rnd.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -3868,7 +3868,7 @@
             "last_name": "Гусева",
             "middle_name": "Владимировна",
             "employee_number": "45237",
-            "email": "IGuseva@kaluga.beeline.ru",
+            "email": "IGuseva@kaluga.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -3922,7 +3922,7 @@
             "last_name": "Сергеева",
             "middle_name": "Сергеевна",
             "employee_number": "44945",
-            "email": "ISergeeva@beeline.ru",
+            "email": "ISergeeva@example.ru",
             "adm_block": {
                 "id": 67533,
                 "name": "Дирекция по разработке ИТ продуктов Розничного бизнеса",
@@ -3976,7 +3976,7 @@
             "last_name": "Дедова",
             "middle_name": "Викторовна",
             "employee_number": "45661",
-            "email": "VDedova@belgorod.beeline.ru",
+            "email": "VDedova@belgorod.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -4030,7 +4030,7 @@
             "last_name": "Устинова",
             "middle_name": "Сергеевна",
             "employee_number": "49016",
-            "email": "EUstinova@beeline.ru",
+            "email": "EUstinova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -4084,7 +4084,7 @@
             "last_name": "Овчинников",
             "middle_name": "Александрович",
             "employee_number": "43056",
-            "email": "DAOvchinnikov@beeline.ru",
+            "email": "DAOvchinnikov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -4138,7 +4138,7 @@
             "last_name": "Елисеева",
             "middle_name": "Витальевна",
             "employee_number": "48086",
-            "email": "IVEliseeva@beeline.ru",
+            "email": "IVEliseeva@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -4192,7 +4192,7 @@
             "last_name": "Грабин",
             "middle_name": "Юрьевич",
             "employee_number": "В46757",
-            "email": "AGrabin@rnd.beeline.ru",
+            "email": "AGrabin@rnd.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -4233,7 +4233,7 @@
             "last_name": "Чепарин",
             "middle_name": "Владимирович",
             "employee_number": "12883",
-            "email": "MCheparin@beeline.ru",
+            "email": "MCheparin@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -4294,7 +4294,7 @@
             "last_name": "Мусаев",
             "middle_name": "Кенесбаевич",
             "employee_number": "В43251",
-            "email": "EKMusaev@beeline.ru",
+            "email": "EKMusaev@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -4335,7 +4335,7 @@
             "last_name": "Славкин",
             "middle_name": "Вениаминович",
             "employee_number": "814",
-            "email": "DSlavkin@beeline.ru",
+            "email": "DSlavkin@example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -4389,7 +4389,7 @@
             "last_name": "Потряхаев",
             "middle_name": "Вячеславович",
             "employee_number": "47450",
-            "email": "APotryakhaev@beeline.ru",
+            "email": "APotryakhaev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -4443,7 +4443,7 @@
             "last_name": "Денисов",
             "middle_name": "Егорович",
             "employee_number": "11695",
-            "email": "PDenisov@beeline.ru",
+            "email": "PDenisov@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -4504,7 +4504,7 @@
             "last_name": "Саакян",
             "middle_name": "Антоновна",
             "employee_number": "50384",
-            "email": "ESaakyan@spb.beeline.ru",
+            "email": "ESaakyan@spb.example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -4558,7 +4558,7 @@
             "last_name": "Наместникова",
             "middle_name": "Викторовна",
             "employee_number": "50988",
-            "email": "MNamestnikova@srt.beeline.ru",
+            "email": "MNamestnikova@srt.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -4604,7 +4604,7 @@
             "last_name": "Смирнов",
             "middle_name": "Александрович",
             "employee_number": "47729",
-            "email": "VSmirnov@spb.beeline.ru",
+            "email": "VSmirnov@spb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -4658,7 +4658,7 @@
             "last_name": "Люхин",
             "middle_name": "Михайлович",
             "employee_number": "42977",
-            "email": "ALyukhin@beeline.ru",
+            "email": "ALyukhin@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -4712,7 +4712,7 @@
             "last_name": "Дельпер",
             "middle_name": "Юрьевна",
             "employee_number": "46178",
-            "email": "EDelper@beeline.ru",
+            "email": "EDelper@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -4766,7 +4766,7 @@
             "last_name": "Белоусов",
             "middle_name": "Олегович",
             "employee_number": "50035",
-            "email": "MBelousov@beeline.ru",
+            "email": "MBelousov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -4820,7 +4820,7 @@
             "last_name": "Кузьмина",
             "middle_name": "Михайловна",
             "employee_number": "46296",
-            "email": "MMKuzmina@beeline.ru",
+            "email": "MMKuzmina@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -4881,7 +4881,7 @@
             "last_name": "Лопаткина",
             "middle_name": "Васильевна",
             "employee_number": "146407",
-            "email": "EVLopatkina@rnd.beeline.ru",
+            "email": "EVLopatkina@rnd.example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -4935,7 +4935,7 @@
             "last_name": "Бессонова",
             "middle_name": "Александровна",
             "employee_number": "158976",
-            "email": "EBessonova@kir.beeline.ru",
+            "email": "EBessonova@kir.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -4989,7 +4989,7 @@
             "last_name": "Семёнова",
             "middle_name": "Викторовна",
             "employee_number": "252",
-            "email": "ASemeonova@beeline.ru",
+            "email": "ASemeonova@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -5043,7 +5043,7 @@
             "last_name": "Воронова",
             "middle_name": "Борисовна",
             "employee_number": "967",
-            "email": "SVoronova@beeline.ru",
+            "email": "SVoronova@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -5097,7 +5097,7 @@
             "last_name": "Пустовая",
             "middle_name": "Николаевна",
             "employee_number": "47236",
-            "email": "OPustovaya@nsk.beeline.ru",
+            "email": "OPustovaya@nsk.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -5151,7 +5151,7 @@
             "last_name": "Ширкина",
             "middle_name": "Борисовна",
             "employee_number": "42490",
-            "email": "EShirkina@beeline.ru",
+            "email": "EShirkina@example.ru",
             "adm_block": {
                 "id": 69653,
                 "name": "Дирекция разработки программных решений",
@@ -5212,7 +5212,7 @@
             "last_name": "Кожаткина",
             "middle_name": "Владимировна",
             "employee_number": "42486",
-            "email": "NKozhatkina@beeline.ru",
+            "email": "NKozhatkina@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -5273,7 +5273,7 @@
             "last_name": "Бондаренко",
             "middle_name": "Анатольевич",
             "employee_number": "791",
-            "email": "SBondarenko@beeline.ru",
+            "email": "SBondarenko@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -5327,7 +5327,7 @@
             "last_name": "Андрейченко",
             "middle_name": "Рудольфович",
             "employee_number": "46732",
-            "email": "KAndreychenko@beeline.ru",
+            "email": "KAndreychenko@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -5388,7 +5388,7 @@
             "last_name": "Сваринская",
             "middle_name": "Александровна",
             "employee_number": "11928",
-            "email": "Svarinskaya@beeline.ru",
+            "email": "Svarinskaya@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -5442,7 +5442,7 @@
             "last_name": "Макеева",
             "middle_name": "Анатольевна",
             "employee_number": "43908",
-            "email": "NMakeeva@beeline.ru",
+            "email": "NMakeeva@example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -5496,7 +5496,7 @@
             "last_name": "Кузнецов",
             "middle_name": "Сергеевич",
             "employee_number": "49583",
-            "email": "SSKuznetsov@tula.beeline.ru",
+            "email": "SSKuznetsov@tula.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -5557,7 +5557,7 @@
             "last_name": "Медвецкий",
             "middle_name": "Анатольевич",
             "employee_number": "50897",
-            "email": "SMedvetskiy@beeline.ru",
+            "email": "SMedvetskiy@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -5611,7 +5611,7 @@
             "last_name": "Краснова",
             "middle_name": "Алексеевна",
             "employee_number": "47242",
-            "email": "ElAlKrasnova@beeline.ru",
+            "email": "ElAlKrasnova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -5665,7 +5665,7 @@
             "last_name": "Зудин",
             "middle_name": "Александрович",
             "employee_number": "47026",
-            "email": "AZudin@beeline.ru",
+            "email": "AZudin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -5719,7 +5719,7 @@
             "last_name": "Лобжанидзе",
             "middle_name": "Александрович",
             "employee_number": "48834",
-            "email": "ALobzhanidze@beeline.ru",
+            "email": "ALobzhanidze@example.ru",
             "adm_block": {
                 "id": 690,
                 "name": "Блок корпоративной безопасности",
@@ -5780,7 +5780,7 @@
             "last_name": "Архипова",
             "middle_name": "Алексеевна",
             "employee_number": "44398",
-            "email": "IArkhipova@beeline.ru",
+            "email": "IArkhipova@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -5834,7 +5834,7 @@
             "last_name": "Аделова",
             "middle_name": "Ивановна",
             "employee_number": "45631",
-            "email": "TAdelova@uln.beeline.ru",
+            "email": "TAdelova@uln.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -5888,7 +5888,7 @@
             "last_name": "Тихонов",
             "middle_name": "Гурьевич",
             "employee_number": "452",
-            "email": "Ytikhonov@beeline.ru",
+            "email": "Ytikhonov@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -5949,7 +5949,7 @@
             "last_name": "Чуприков",
             "middle_name": "Анатольевич",
             "employee_number": "43898",
-            "email": "PChuprikov@beeline.ru",
+            "email": "PChuprikov@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -6003,7 +6003,7 @@
             "last_name": "Форсель",
             "middle_name": "Юрьевна",
             "employee_number": "45547",
-            "email": "OForsel@nsk.beeline.ru",
+            "email": "OForsel@nsk.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -6064,7 +6064,7 @@
             "last_name": "Захаров",
             "middle_name": "Анатольевич",
             "employee_number": "45532",
-            "email": "AAZakharov@barnaul.beeline.ru",
+            "email": "AAZakharov@barnaul.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -6118,7 +6118,7 @@
             "last_name": "Мармазова",
             "middle_name": "Владимировна",
             "employee_number": "45337",
-            "email": "IMarmazova@brs.beeline.ru",
+            "email": "IMarmazova@brs.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -6172,7 +6172,7 @@
             "last_name": "Мартемьянов",
             "middle_name": "Владимирович",
             "employee_number": "48151",
-            "email": "DMartemyanov@beeline.ru",
+            "email": "DMartemyanov@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -6233,7 +6233,7 @@
             "last_name": "Лупов",
             "middle_name": "Геннадьевич",
             "employee_number": "47347",
-            "email": "ALupov@kur.beeline.ru",
+            "email": "ALupov@kur.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -6294,7 +6294,7 @@
             "last_name": "Гаврилова",
             "middle_name": "Николаевна",
             "employee_number": "20113",
-            "email": "LGavrilova@beeline.ru",
+            "email": "LGavrilova@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -6348,7 +6348,7 @@
             "last_name": "Латышев",
             "middle_name": "Геннадиевич",
             "employee_number": "834",
-            "email": "SLatyshev@beeline.ru",
+            "email": "SLatyshev@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -6409,7 +6409,7 @@
             "last_name": "Локтионов",
             "middle_name": "Анатольевич",
             "employee_number": "13170",
-            "email": "ALoktionov@beeline.ru",
+            "email": "ALoktionov@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -6463,7 +6463,7 @@
             "last_name": "Отрубянникова",
             "middle_name": "Павловна",
             "employee_number": "43529",
-            "email": "SPFilippova@beeline.ru",
+            "email": "SPFilippova@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -6517,7 +6517,7 @@
             "last_name": "Курохтин",
             "middle_name": "Викторович",
             "employee_number": "47323",
-            "email": "AKurokhtin@beeline.ru",
+            "email": "AKurokhtin@example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -6571,7 +6571,7 @@
             "last_name": "Данилов",
             "middle_name": "Николаевич",
             "employee_number": "43632",
-            "email": "ADanilov@beeline.ru",
+            "email": "ADanilov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -6632,7 +6632,7 @@
             "last_name": "Хизбуллина",
             "middle_name": "Булатовна",
             "employee_number": "46592",
-            "email": "YKhizbullina@kzn.beeline.ru",
+            "email": "YKhizbullina@kzn.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -6686,7 +6686,7 @@
             "last_name": "Лукьянчиков",
             "middle_name": "Васильевич",
             "employee_number": "43665",
-            "email": "NLukyanchikov@beeline.ru",
+            "email": "NLukyanchikov@example.ru",
             "adm_block": {
                 "id": 69313,
                 "name": "Дирекция по развитию систем предприятия",
@@ -6747,7 +6747,7 @@
             "last_name": "Солодков",
             "middle_name": "Викторович",
             "employee_number": "632",
-            "email": "Solodkov@beeline.ru",
+            "email": "Solodkov@example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -6801,7 +6801,7 @@
             "last_name": "Коростелёв",
             "middle_name": "Валерьевич",
             "employee_number": "48760",
-            "email": "MKorostelev@beeline.ru",
+            "email": "MKorostelev@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -6862,7 +6862,7 @@
             "last_name": "Гусева",
             "middle_name": "Геннадиевна",
             "employee_number": "42182",
-            "email": "HGuseva@beeline.ru",
+            "email": "HGuseva@example.ru",
             "adm_block": {
                 "id": 60452,
                 "name": "Блок по операторскому бизнесу",
@@ -6916,7 +6916,7 @@
             "last_name": "Домненко",
             "middle_name": "Николаевич",
             "employee_number": "43459",
-            "email": "ADomnenko@beeline.ru",
+            "email": "ADomnenko@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -6970,7 +6970,7 @@
             "last_name": "Васильева",
             "middle_name": "Валентиновна",
             "employee_number": "12895",
-            "email": "SVasileva@beeline.ru",
+            "email": "SVasileva@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -7024,7 +7024,7 @@
             "last_name": "Джульдиева",
             "middle_name": "Витальевна",
             "employee_number": "590",
-            "email": "ADzhuldieva@beeline.ru",
+            "email": "ADzhuldieva@example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -7078,7 +7078,7 @@
             "last_name": "Фадеева",
             "middle_name": "Васильевна",
             "employee_number": "43482",
-            "email": "NFadeeva@beeline.ru",
+            "email": "NFadeeva@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -7132,7 +7132,7 @@
             "last_name": "Южанин",
             "middle_name": "Геннадьевич",
             "employee_number": "50353",
-            "email": "AYuzhanin@ekb.beeline.ru",
+            "email": "AYuzhanin@ekb.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -7186,7 +7186,7 @@
             "last_name": "Емчинова",
             "middle_name": "Георгиевна",
             "employee_number": "2680",
-            "email": "YEmchinova@beeline.ru",
+            "email": "YEmchinova@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -7240,7 +7240,7 @@
             "last_name": "Иванов",
             "middle_name": "Владимирович",
             "employee_number": "46322",
-            "email": "NIvanov@beeline.ru",
+            "email": "NIvanov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -7301,7 +7301,7 @@
             "last_name": "Позднеева",
             "middle_name": "Алексеевна",
             "employee_number": "13260",
-            "email": "OPozdneeva@beeline.ru",
+            "email": "OPozdneeva@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -7355,7 +7355,7 @@
             "last_name": "Денисов",
             "middle_name": "Иванович",
             "employee_number": "48490",
-            "email": "MDenisov@kaluga.beeline.ru",
+            "email": "MDenisov@kaluga.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -7416,7 +7416,7 @@
             "last_name": "Шеховцов",
             "middle_name": "Николаевич",
             "employee_number": "50808",
-            "email": "VShekhovtsov@kur.beeline.ru",
+            "email": "VShekhovtsov@kur.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -7477,7 +7477,7 @@
             "last_name": "Бусыгин",
             "middle_name": "Петрович",
             "employee_number": "45716",
-            "email": "YuBusygin@nsk.beeline.ru",
+            "email": "YuBusygin@nsk.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -7538,7 +7538,7 @@
             "last_name": "Верещагина",
             "middle_name": "Эдуардовна",
             "employee_number": "12338",
-            "email": "TVereshchagina@beeline.ru",
+            "email": "TVereshchagina@example.ru",
             "adm_block": {
                 "id": 69653,
                 "name": "Дирекция разработки программных решений",
@@ -7599,7 +7599,7 @@
             "last_name": "Лыткина",
             "middle_name": "Владимировна",
             "employee_number": "43855",
-            "email": "OLytkina@beeline.ru",
+            "email": "OLytkina@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -7653,7 +7653,7 @@
             "last_name": "Новоселова",
             "middle_name": "Сергеевна",
             "employee_number": "47067",
-            "email": "NNovoselova@nsk.beeline.ru",
+            "email": "NNovoselova@nsk.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -7707,7 +7707,7 @@
             "last_name": "Митрофанов",
             "middle_name": "Евгеньевич",
             "employee_number": "947",
-            "email": "MMitrofanov@beeline.ru",
+            "email": "MMitrofanov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -7768,7 +7768,7 @@
             "last_name": "Сметанкин",
             "middle_name": "Николаевич",
             "employee_number": "В238083",
-            "email": "ISmetankin@beeline.ru",
+            "email": "ISmetankin@example.ru",
             "adm_block": null,
             "func_block": null,
             "phone_set": [
@@ -7801,7 +7801,7 @@
             "last_name": "Федин",
             "middle_name": "Георгиевич",
             "employee_number": "48671",
-            "email": "AFedin@spb.beeline.ru",
+            "email": "AFedin@spb.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -7862,7 +7862,7 @@
             "last_name": "Боев",
             "middle_name": "Вячеславович",
             "employee_number": "20029",
-            "email": "ABoev@beeline.ru",
+            "email": "ABoev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -7923,7 +7923,7 @@
             "last_name": "Зелютков",
             "middle_name": "Егорович",
             "employee_number": "41006",
-            "email": "AZelyutkov@beeline.ru",
+            "email": "AZelyutkov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -7977,7 +7977,7 @@
             "last_name": "Шумилов",
             "middle_name": "Николаевич",
             "employee_number": "В42759",
-            "email": "VShumilov@beeline.ru",
+            "email": "VShumilov@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -8018,7 +8018,7 @@
             "last_name": "Желтов",
             "middle_name": "Николаевич",
             "employee_number": "49911",
-            "email": "NZheltov@srt.beeline.ru",
+            "email": "NZheltov@srt.example.ru",
             "adm_block": {
                 "id": 67273,
                 "name": "Департамент аналитических систем",
@@ -8072,7 +8072,7 @@
             "last_name": "Сутковой",
             "middle_name": "Данилович",
             "employee_number": "44603",
-            "email": "LSutkovoy@beeline.ru",
+            "email": "LSutkovoy@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -8126,7 +8126,7 @@
             "last_name": "Морозова",
             "middle_name": "Валентиновна",
             "employee_number": "370",
-            "email": "SMorozova@beeline.ru",
+            "email": "SMorozova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -8180,7 +8180,7 @@
             "last_name": "Перец",
             "middle_name": "Николаевич",
             "employee_number": "48851",
-            "email": "APerets@oms.beeline.ru",
+            "email": "APerets@oms.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -8234,7 +8234,7 @@
             "last_name": "Ткачева",
             "middle_name": "Алексеевна",
             "employee_number": "49697",
-            "email": "KTkachiova@beeline.ru",
+            "email": "KTkachiova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -8288,7 +8288,7 @@
             "last_name": "Емельянов",
             "middle_name": "Викторович",
             "employee_number": "47575",
-            "email": "AlVEmelyanov@beeline.ru",
+            "email": "AlVEmelyanov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -8342,7 +8342,7 @@
             "last_name": "Тарарова",
             "middle_name": "Викторовна",
             "employee_number": "47216",
-            "email": "YuTararova@nnv.beeline.ru",
+            "email": "YuTararova@nnv.example.ru",
             "adm_block": {
                 "id": 60452,
                 "name": "Блок по операторскому бизнесу",
@@ -8396,7 +8396,7 @@
             "last_name": "Герасимова",
             "middle_name": "Анатольевна",
             "employee_number": "172264",
-            "email": "OlAnGerasimova@beeline.ru",
+            "email": "OlAnGerasimova@example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -8450,7 +8450,7 @@
             "last_name": "Павликовская",
             "middle_name": "Ивановна",
             "employee_number": "42159",
-            "email": "GPavlikovskaya@beeline.ru",
+            "email": "GPavlikovskaya@example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -8504,7 +8504,7 @@
             "last_name": "Горлин",
             "middle_name": "Васильевич",
             "employee_number": "48672",
-            "email": "AGorlin@spb.beeline.ru",
+            "email": "AGorlin@spb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -8565,7 +8565,7 @@
             "last_name": "Сычев",
             "middle_name": "Михайлович",
             "employee_number": "43072",
-            "email": "DSychev@beeline.ru",
+            "email": "DSychev@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -8626,7 +8626,7 @@
             "last_name": "Замковая",
             "middle_name": "Викторовна",
             "employee_number": "50025",
-            "email": "SVZamkovaya@spb.beeline.ru",
+            "email": "SVZamkovaya@spb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -8680,7 +8680,7 @@
             "last_name": "Грибов",
             "middle_name": "Петрович",
             "employee_number": "44079",
-            "email": "SGribov@beeline.ru",
+            "email": "SGribov@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -8741,7 +8741,7 @@
             "last_name": "Кузнецова",
             "middle_name": "Владимировна",
             "employee_number": "43691",
-            "email": "NKuznetsova@beeline.ru",
+            "email": "NKuznetsova@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -8795,7 +8795,7 @@
             "last_name": "Голубев",
             "middle_name": "Дмитриевич",
             "employee_number": "44482",
-            "email": "OGolubev@beeline.ru",
+            "email": "OGolubev@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -8849,7 +8849,7 @@
             "last_name": "Федорченко",
             "middle_name": "Юрьевна",
             "employee_number": "46516",
-            "email": "DFedorchenko@beeline.ru",
+            "email": "DFedorchenko@example.ru",
             "adm_block": {
                 "id": 54452,
                 "name": "Блок по взаимодействию с органами государственной власти",
@@ -8903,7 +8903,7 @@
             "last_name": "Широкова",
             "middle_name": "Александровна",
             "employee_number": "45451",
-            "email": "NShirokova@vrn.beeline.ru",
+            "email": "NShirokova@vrn.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -8964,7 +8964,7 @@
             "last_name": "Боровская",
             "middle_name": "Анатольевна",
             "employee_number": "46750",
-            "email": "IBorovskaya@rnd.beeline.ru",
+            "email": "IBorovskaya@rnd.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -9010,7 +9010,7 @@
             "last_name": "Александров",
             "middle_name": "Николаевич",
             "employee_number": "В214350",
-            "email": "IAleksandrov@beeline.ru",
+            "email": "IAleksandrov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -9044,7 +9044,7 @@
             "last_name": "Колодяжная",
             "middle_name": "Анатольевна",
             "employee_number": "46883",
-            "email": "OKolodyazhnaya@ast.beeline.ru",
+            "email": "OKolodyazhnaya@ast.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -9098,7 +9098,7 @@
             "last_name": "Науменко",
             "middle_name": "Викторович",
             "employee_number": "49594",
-            "email": "ANaumenko@brs.beeline.ru",
+            "email": "ANaumenko@brs.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -9166,7 +9166,7 @@
             "last_name": "Дроздова",
             "middle_name": "Владимировна",
             "employee_number": "20314",
-            "email": "IDrozdova@beeline.ru",
+            "email": "IDrozdova@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -9220,7 +9220,7 @@
             "last_name": "Бугаев",
             "middle_name": "Александрович",
             "employee_number": "46835",
-            "email": "ABugaev@saratov.beeline.ru",
+            "email": "ABugaev@saratov.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -9274,7 +9274,7 @@
             "last_name": "Орлова",
             "middle_name": "Филипповна",
             "employee_number": "47524",
-            "email": "LOrlova@beeline.ru",
+            "email": "LOrlova@example.ru",
             "adm_block": {
                 "id": 54452,
                 "name": "Блок по взаимодействию с органами государственной власти",
@@ -9328,7 +9328,7 @@
             "last_name": "Загребина",
             "middle_name": "Владимировна",
             "employee_number": "50415",
-            "email": "SZagrebina@ekb.beeline.ru",
+            "email": "SZagrebina@ekb.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -9382,7 +9382,7 @@
             "last_name": "Сушков",
             "middle_name": "Сергеевич",
             "employee_number": "692",
-            "email": "VSushkov@beeline.ru",
+            "email": "VSushkov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -9443,7 +9443,7 @@
             "last_name": "Сигаев",
             "middle_name": "Владимирович",
             "employee_number": "В73777",
-            "email": "SVSigaev@beeline.ru",
+            "email": "SVSigaev@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -9477,7 +9477,7 @@
             "last_name": "Лопарев",
             "middle_name": "Федосович",
             "employee_number": "42599",
-            "email": "MLoparev@beeline.ru",
+            "email": "MLoparev@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -9538,7 +9538,7 @@
             "last_name": "Корнилова",
             "middle_name": "Петровна",
             "employee_number": "50058",
-            "email": "NKornilova@spb.beeline.ru",
+            "email": "NKornilova@spb.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -9592,7 +9592,7 @@
             "last_name": "Хорозов",
             "middle_name": "Борисович",
             "employee_number": "45736",
-            "email": "VKhorozov@nsk.beeline.ru",
+            "email": "VKhorozov@nsk.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -9653,7 +9653,7 @@
             "last_name": "Наседкина",
             "middle_name": "Сергеевна",
             "employee_number": "43819",
-            "email": "MNasedkina@ssc.beeline.ru",
+            "email": "MNasedkina@ssc.example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -9707,7 +9707,7 @@
             "last_name": "Франк",
             "middle_name": "Александровна",
             "employee_number": "48364",
-            "email": "EFrank@beeline.ru",
+            "email": "EFrank@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -9761,7 +9761,7 @@
             "last_name": "Бенграф",
             "middle_name": "Сергеевна",
             "employee_number": "46867",
-            "email": "TBengraf@beeline.ru",
+            "email": "TBengraf@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -9807,7 +9807,7 @@
             "last_name": "Акимова",
             "middle_name": "Владимировна",
             "employee_number": "43923",
-            "email": "OAkimova@beeline.ru",
+            "email": "OAkimova@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -9861,7 +9861,7 @@
             "last_name": "Абызов",
             "middle_name": "Александрович",
             "employee_number": "44919",
-            "email": "AAbyzov@beeline.ru",
+            "email": "AAbyzov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -9915,7 +9915,7 @@
             "last_name": "Ярков",
             "middle_name": "Александрович",
             "employee_number": "45109",
-            "email": "DYarkov@krs.beeline.ru",
+            "email": "DYarkov@krs.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -9969,7 +9969,7 @@
             "last_name": "Тищенко",
             "middle_name": "Николаевна",
             "employee_number": "44352",
-            "email": "MTishchenko@beeline.ru",
+            "email": "MTishchenko@example.ru",
             "adm_block": {
                 "id": 54452,
                 "name": "Блок по взаимодействию с органами государственной власти",
@@ -10023,7 +10023,7 @@
             "last_name": "Писаренко",
             "middle_name": "Константинович",
             "employee_number": "2620",
-            "email": "Pisarenko@beeline.ru",
+            "email": "Pisarenko@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -10077,7 +10077,7 @@
             "last_name": "Михолажин",
             "middle_name": "Иванович",
             "employee_number": "49562",
-            "email": "KMikholazhin@beeline.ru",
+            "email": "KMikholazhin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -10138,7 +10138,7 @@
             "last_name": "Полищук",
             "middle_name": "Францевич",
             "employee_number": "372",
-            "email": "VPolishchuk@beeline.ru",
+            "email": "VPolishchuk@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -10192,7 +10192,7 @@
             "last_name": "Морозова",
             "middle_name": "Владимировна",
             "employee_number": "47234",
-            "email": "EMorozova@nsk.beeline.ru",
+            "email": "EMorozova@nsk.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -10246,7 +10246,7 @@
             "last_name": "Нелепченко",
             "middle_name": "Борисовна",
             "employee_number": "50182",
-            "email": "ENelepchenko@beeline.ru",
+            "email": "ENelepchenko@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -10307,7 +10307,7 @@
             "last_name": "Черников",
             "middle_name": "Викторович",
             "employee_number": "50759",
-            "email": "SChernikov@beeline.ru",
+            "email": "SChernikov@example.ru",
             "adm_block": {
                 "id": 67280,
                 "name": "Департамент по разработке антифрод продуктов",
@@ -10361,7 +10361,7 @@
             "last_name": "Абалакина",
             "middle_name": "Алексеевна",
             "employee_number": "13118",
-            "email": "SAbalakina@beeline.ru",
+            "email": "SAbalakina@example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -10415,7 +10415,7 @@
             "last_name": "Дмитриев",
             "middle_name": "Иванович",
             "employee_number": "47348",
-            "email": "AIDmitriev@ast.beeline.ru",
+            "email": "AIDmitriev@ast.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -10469,7 +10469,7 @@
             "last_name": "Красикова",
             "middle_name": "Ивановна",
             "employee_number": "492",
-            "email": "Krasikova@beeline.ru",
+            "email": "Krasikova@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -10523,7 +10523,7 @@
             "last_name": "Омельченко",
             "middle_name": "Геннадьевич",
             "employee_number": "49895",
-            "email": "AOmelchenko@tum.beeline.ru",
+            "email": "AOmelchenko@tum.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -10591,7 +10591,7 @@
             "last_name": "Тихонов",
             "middle_name": "Николаевич",
             "employee_number": "47830",
-            "email": "ATikhonov@beeline.ru",
+            "email": "ATikhonov@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -10652,7 +10652,7 @@
             "last_name": "Сухарев",
             "middle_name": "Викторович",
             "employee_number": "223",
-            "email": "DSuharev@beeline.ru",
+            "email": "DSuharev@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -10713,7 +10713,7 @@
             "last_name": "Слесаренко",
             "middle_name": "Геннадьевич",
             "employee_number": "49146",
-            "email": "ASlesarenko@spb.beeline.ru",
+            "email": "ASlesarenko@spb.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -10767,7 +10767,7 @@
             "last_name": "Хохлов",
             "middle_name": "Сергеевич",
             "employee_number": "В45327",
-            "email": "LKhokhlov@beeline.ru",
+            "email": "LKhokhlov@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -10801,7 +10801,7 @@
             "last_name": "Нужный",
             "middle_name": "Петрович",
             "employee_number": "В233538",
-            "email": "ANuzhnyy@yaroslavl.beeline.ru",
+            "email": "ANuzhnyy@yaroslavl.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -10842,7 +10842,7 @@
             "last_name": "Колчина",
             "middle_name": "Владимировна",
             "employee_number": "49661",
-            "email": "AKolchina@saratov.beeline.ru",
+            "email": "AKolchina@saratov.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -10896,7 +10896,7 @@
             "last_name": "Севостьянов",
             "middle_name": "Николаевич",
             "employee_number": "50587",
-            "email": "VSevostyanov@vrn.beeline.ru",
+            "email": "VSevostyanov@vrn.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -10950,7 +10950,7 @@
             "last_name": "Балыкина",
             "middle_name": "Яковлевна",
             "employee_number": "45611",
-            "email": "ZBalykina@nsk.beeline.ru",
+            "email": "ZBalykina@nsk.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -11004,7 +11004,7 @@
             "last_name": "Паршин",
             "middle_name": "Вячеславович",
             "employee_number": "42709",
-            "email": "IParshin@beeline.ru",
+            "email": "IParshin@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -11065,7 +11065,7 @@
             "last_name": "Сорокин",
             "middle_name": "Сергеевич",
             "employee_number": "2507",
-            "email": "ISSorokin@beeline.ru",
+            "email": "ISSorokin@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -11119,7 +11119,7 @@
             "last_name": "Малинченкова",
             "middle_name": "Анатольевна",
             "employee_number": "В208674",
-            "email": "YuMalinchenkova@smolensk.beeline.ru",
+            "email": "YuMalinchenkova@smolensk.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -11153,7 +11153,7 @@
             "last_name": "Есаков",
             "middle_name": "Александрович",
             "employee_number": "72",
-            "email": "PEsakov@beeline.ru",
+            "email": "PEsakov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -11207,7 +11207,7 @@
             "last_name": "Голодаев",
             "middle_name": "Николаевич",
             "employee_number": "48041",
-            "email": "AGolodaev@srt.beeline.ru",
+            "email": "AGolodaev@srt.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -11261,7 +11261,7 @@
             "last_name": "Мозгунов",
             "middle_name": "Владимирович",
             "employee_number": "В226345",
-            "email": "DMozgunov@ast.beeline.ru",
+            "email": "DMozgunov@ast.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -11295,7 +11295,7 @@
             "last_name": "Буслаева",
             "middle_name": "Владимировна",
             "employee_number": "44059",
-            "email": "IBuslaeva@beeline.ru",
+            "email": "IBuslaeva@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -11349,7 +11349,7 @@
             "last_name": "Лысенко",
             "middle_name": "Александровна",
             "employee_number": "45468",
-            "email": "TLysenko@vrn.beeline.ru",
+            "email": "TLysenko@vrn.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -11403,7 +11403,7 @@
             "last_name": "Кудров",
             "middle_name": "Рудольфович",
             "employee_number": "51005",
-            "email": "AKudrov@ksm.beeline.ru",
+            "email": "AKudrov@ksm.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -11457,7 +11457,7 @@
             "last_name": "Кирьянова",
             "middle_name": "Викторовна",
             "employee_number": "50164",
-            "email": "TKiryanova@tum.beeline.ru",
+            "email": "TKiryanova@tum.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -11511,7 +11511,7 @@
             "last_name": "Домников",
             "middle_name": "Геннадьевич",
             "employee_number": "43250",
-            "email": "NDomnikov@beeline.ru",
+            "email": "NDomnikov@example.ru",
             "adm_block": {
                 "id": 67280,
                 "name": "Департамент по разработке антифрод продуктов",
@@ -11557,7 +11557,7 @@
             "last_name": "Вершинская",
             "middle_name": "Николаевна",
             "employee_number": "49896",
-            "email": "SVershinskaya@clb.beeline.ru",
+            "email": "SVershinskaya@clb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -11618,7 +11618,7 @@
             "last_name": "Будюкин",
             "middle_name": "Николаевич",
             "employee_number": "45205",
-            "email": "ABudyukin@lip.beeline.ru",
+            "email": "ABudyukin@lip.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -11672,7 +11672,7 @@
             "last_name": "Новикова",
             "middle_name": "Геннадьевна",
             "employee_number": "43283",
-            "email": "TNovikova@beeline.ru",
+            "email": "TNovikova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -11726,7 +11726,7 @@
             "last_name": "Демина",
             "middle_name": "Анатольевна",
             "employee_number": "2513",
-            "email": "Lana@beeline.ru",
+            "email": "Lana@example.ru",
             "adm_block": {
                 "id": 690,
                 "name": "Блок корпоративной безопасности",
@@ -11780,7 +11780,7 @@
             "last_name": "Лисицын",
             "middle_name": "Михайлович",
             "employee_number": "49710",
-            "email": "MLisitsyn@beeline.ru",
+            "email": "MLisitsyn@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -11834,7 +11834,7 @@
             "last_name": "Даньшина",
             "middle_name": "Владимировна",
             "employee_number": "526",
-            "email": "NDanshina@beeline.ru",
+            "email": "NDanshina@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -11895,7 +11895,7 @@
             "last_name": "Трунов",
             "middle_name": "Александрович",
             "employee_number": "2543",
-            "email": "ATrunov@beeline.ru",
+            "email": "ATrunov@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -11949,7 +11949,7 @@
             "last_name": "Старыгина",
             "middle_name": "Александровна",
             "employee_number": "45911",
-            "email": "OStarygina@nsk.beeline.ru",
+            "email": "OStarygina@nsk.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -12003,7 +12003,7 @@
             "last_name": "Ермолович",
             "middle_name": "Эдуардович",
             "employee_number": "42779",
-            "email": "IErmolovich@beeline.ru",
+            "email": "IErmolovich@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -12064,7 +12064,7 @@
             "last_name": "Гарнова",
             "middle_name": "Максимовна",
             "employee_number": "47914",
-            "email": "AGarnova@beeline.ru",
+            "email": "AGarnova@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -12125,7 +12125,7 @@
             "last_name": "Жданов",
             "middle_name": "Викторович",
             "employee_number": "13198",
-            "email": "MZhdanov@beeline.ru",
+            "email": "MZhdanov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -12179,7 +12179,7 @@
             "last_name": "Вихтинская",
             "middle_name": "Викторовна",
             "employee_number": "42767",
-            "email": "AVikhtinskaya@spb.beeline.ru",
+            "email": "AVikhtinskaya@spb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -12240,7 +12240,7 @@
             "last_name": "Петросова",
             "middle_name": "Рафаэлевна",
             "employee_number": "48324",
-            "email": "IPetrosova@beeline.ru",
+            "email": "IPetrosova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -12294,7 +12294,7 @@
             "last_name": "Попова",
             "middle_name": "Александровна",
             "employee_number": "49568",
-            "email": "IAPopova@nsk.beeline.ru",
+            "email": "IAPopova@nsk.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -12348,7 +12348,7 @@
             "last_name": "Лычагина",
             "middle_name": "Борисовна",
             "employee_number": "484",
-            "email": "SLychagina@beeline.ru",
+            "email": "SLychagina@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -12402,7 +12402,7 @@
             "last_name": "Корнилов",
             "middle_name": "Владимирович",
             "employee_number": "48499",
-            "email": "SKornilov@ast.beeline.ru",
+            "email": "SKornilov@ast.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -12448,7 +12448,7 @@
             "last_name": "Захаров",
             "middle_name": "Анатольевич",
             "employee_number": "45234",
-            "email": "AZakharov@kaluga.beeline.ru",
+            "email": "AZakharov@kaluga.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -12509,7 +12509,7 @@
             "last_name": "Денщиков",
             "middle_name": "Витальевич",
             "employee_number": "46002",
-            "email": "ADenshchikov@beeline.ru",
+            "email": "ADenshchikov@example.ru",
             "adm_block": {
                 "id": 690,
                 "name": "Блок корпоративной безопасности",
@@ -12563,7 +12563,7 @@
             "last_name": "Пономаренко",
             "middle_name": "Юрьевич",
             "employee_number": "43920",
-            "email": "aponomarenko@beeline.ru",
+            "email": "aponomarenko@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -12617,7 +12617,7 @@
             "last_name": "Гагарина",
             "middle_name": "Викторовна",
             "employee_number": "45329",
-            "email": "NGagarina@yaroslavl.beeline.ru",
+            "email": "NGagarina@yaroslavl.example.ru",
             "adm_block": {
                 "id": 690,
                 "name": "Блок корпоративной безопасности",
@@ -12671,7 +12671,7 @@
             "last_name": "Пиденко",
             "middle_name": "Леонидович",
             "employee_number": "48761",
-            "email": "VPidenko@clb.beeline.ru",
+            "email": "VPidenko@clb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -12732,7 +12732,7 @@
             "last_name": "Демкина",
             "middle_name": "Васильевна",
             "employee_number": "50061",
-            "email": "ODemkina@pnz.beeline.ru",
+            "email": "ODemkina@pnz.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -12793,7 +12793,7 @@
             "last_name": "Антонова",
             "middle_name": "Александровна",
             "employee_number": "49903",
-            "email": "EAAntonova@beeline.ru",
+            "email": "EAAntonova@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -12847,7 +12847,7 @@
             "last_name": "Гегечкори",
             "middle_name": "Владимирович",
             "employee_number": "20230",
-            "email": "AGegechkori@beeline.ru",
+            "email": "AGegechkori@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -12901,7 +12901,7 @@
             "last_name": "Гриднева",
             "middle_name": "Александровна",
             "employee_number": "В374689",
-            "email": "LGridneva@kur.beeline.ru",
+            "email": "LGridneva@kur.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -12935,7 +12935,7 @@
             "last_name": "Пучин",
             "middle_name": "Владимирович",
             "employee_number": "43723",
-            "email": "SPuchin@beeline.ru",
+            "email": "SPuchin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -12989,7 +12989,7 @@
             "last_name": "Зудин",
             "middle_name": "Владимирович",
             "employee_number": "50800",
-            "email": "KZudin@beeline.ru",
+            "email": "KZudin@example.ru",
             "adm_block": {
                 "id": 54452,
                 "name": "Блок по взаимодействию с органами государственной власти",
@@ -13057,7 +13057,7 @@
             "last_name": "Лень",
             "middle_name": "Николаевич",
             "employee_number": "47022",
-            "email": "SLen@beeline.ru",
+            "email": "SLen@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -13111,7 +13111,7 @@
             "last_name": "Краснова",
             "middle_name": "Сергеевна",
             "employee_number": "В398643",
-            "email": "OKrasnova@beeline.ru",
+            "email": "OKrasnova@example.ru",
             "adm_block": null,
             "func_block": null,
             "phone_set": [],
@@ -13149,7 +13149,7 @@
             "last_name": "Кравец",
             "middle_name": "Андреевич",
             "employee_number": "45194",
-            "email": "VKravets@lip.beeline.ru",
+            "email": "VKravets@lip.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -13203,7 +13203,7 @@
             "last_name": "Ракова",
             "middle_name": "Вадимовна",
             "employee_number": "43135",
-            "email": "VRakova@beeline.ru",
+            "email": "VRakova@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -13264,7 +13264,7 @@
             "last_name": "Глухов",
             "middle_name": "Иванович",
             "employee_number": "42422",
-            "email": "NGlukhov@beeline.ru",
+            "email": "NGlukhov@example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -13318,7 +13318,7 @@
             "last_name": "Нагога",
             "middle_name": "Валерьевич",
             "employee_number": "47219",
-            "email": "SNagoga@nsk.beeline.ru",
+            "email": "SNagoga@nsk.example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -13372,7 +13372,7 @@
             "last_name": "Костюковский",
             "middle_name": "Андреевич",
             "employee_number": "13184",
-            "email": "AKostyukovskiy@beeline.ru",
+            "email": "AKostyukovskiy@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -13426,7 +13426,7 @@
             "last_name": "Рязанцев",
             "middle_name": "Владимирович",
             "employee_number": "49884",
-            "email": "SRyazantsev@beeline.ru",
+            "email": "SRyazantsev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -13480,7 +13480,7 @@
             "last_name": "Суетнов",
             "middle_name": "Викторович",
             "employee_number": "50254",
-            "email": "VSuetnov@beeline.ru",
+            "email": "VSuetnov@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -13534,7 +13534,7 @@
             "last_name": "Рухлин",
             "middle_name": "Викторович",
             "employee_number": "2675",
-            "email": "arukhlin@beeline.ru",
+            "email": "arukhlin@example.ru",
             "adm_block": {
                 "id": 69313,
                 "name": "Дирекция по развитию систем предприятия",
@@ -13595,7 +13595,7 @@
             "last_name": "Макеенко",
             "middle_name": "Викторовна",
             "employee_number": "44769",
-            "email": "VMakeenko@beeline.ru",
+            "email": "VMakeenko@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -13649,7 +13649,7 @@
             "last_name": "Холодова",
             "middle_name": "Петровна",
             "employee_number": "47093",
-            "email": "NKholodova@beeline.ru",
+            "email": "NKholodova@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -13703,7 +13703,7 @@
             "last_name": "Михеев",
             "middle_name": "Владимирович",
             "employee_number": "43624",
-            "email": "SMikheev@beeline.ru",
+            "email": "SMikheev@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -13757,7 +13757,7 @@
             "last_name": "Коляков",
             "middle_name": "Александрович",
             "employee_number": "47301",
-            "email": "MKolyakov@rnd.beeline.ru",
+            "email": "MKolyakov@rnd.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -13818,7 +13818,7 @@
             "last_name": "Фабер",
             "middle_name": "Владимировна",
             "employee_number": "44988",
-            "email": "IFaber@beeline.ru",
+            "email": "IFaber@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -13864,7 +13864,7 @@
             "last_name": "Баннов",
             "middle_name": "Вениаминович",
             "employee_number": "В238121",
-            "email": "SBannov@saratov.beeline.ru",
+            "email": "SBannov@saratov.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -13905,7 +13905,7 @@
             "last_name": "Шилин",
             "middle_name": "Геннадьевич",
             "employee_number": "48072",
-            "email": "AShilin@ytc.beeline.ru",
+            "email": "AShilin@ytc.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -13959,7 +13959,7 @@
             "last_name": "Варюхина",
             "middle_name": "Федоровна",
             "employee_number": "46054",
-            "email": "OVaryukhina@chb.beeline.ru",
+            "email": "OVaryukhina@chb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -14013,7 +14013,7 @@
             "last_name": "Алексеев",
             "middle_name": "Вячеславович",
             "employee_number": "13178",
-            "email": "IAlekseev@beeline.ru",
+            "email": "IAlekseev@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -14074,7 +14074,7 @@
             "last_name": "Яковлев",
             "middle_name": "Викторович",
             "employee_number": "42273",
-            "email": "AYakovlev@beeline.ru",
+            "email": "AYakovlev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -14128,7 +14128,7 @@
             "last_name": "Овчинников",
             "middle_name": "Борисович",
             "employee_number": "43280",
-            "email": "AOvchinnikov@beeline.ru",
+            "email": "AOvchinnikov@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -14189,7 +14189,7 @@
             "last_name": "Бефус",
             "middle_name": "Алексеевна",
             "employee_number": "172893",
-            "email": "ABefus@nsk.beeline.ru",
+            "email": "ABefus@nsk.example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -14250,7 +14250,7 @@
             "last_name": "Ерёмич",
             "middle_name": "Иванович",
             "employee_number": "48292",
-            "email": "PEremich@beeline.ru",
+            "email": "PEremich@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -14304,7 +14304,7 @@
             "last_name": "Третяк",
             "middle_name": "Алимович",
             "employee_number": "45121",
-            "email": "OTretyak@krs.beeline.ru",
+            "email": "OTretyak@krs.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -14358,7 +14358,7 @@
             "last_name": "Никоноров",
             "middle_name": "Николаевич",
             "employee_number": "44393",
-            "email": "INikonorov@beeline.ru",
+            "email": "INikonorov@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -14412,7 +14412,7 @@
             "last_name": "Богданов",
             "middle_name": "Иванович",
             "employee_number": "50627",
-            "email": "ABogdanov@tver.beeline.ru",
+            "email": "ABogdanov@tver.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -14473,7 +14473,7 @@
             "last_name": "Терехов",
             "middle_name": "Петрович",
             "employee_number": "20211",
-            "email": "STerekhov@beeline.ru",
+            "email": "STerekhov@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -14527,7 +14527,7 @@
             "last_name": "Рублева",
             "middle_name": "Ивановна",
             "employee_number": "45810",
-            "email": "ORubleva@nsk.beeline.ru",
+            "email": "ORubleva@nsk.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -14581,7 +14581,7 @@
             "last_name": "Медведева",
             "middle_name": "Сергеевна",
             "employee_number": "49714",
-            "email": "OSMedvedeva@beeline.ru",
+            "email": "OSMedvedeva@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -14635,7 +14635,7 @@
             "last_name": "Захаров",
             "middle_name": "Игоревич",
             "employee_number": "В50058",
-            "email": "AZakharov@beeline.ru",
+            "email": "AZakharov@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -14681,7 +14681,7 @@
             "last_name": "Воробьёва",
             "middle_name": "Германовна",
             "employee_number": "20118",
-            "email": "YulGVorobeva@beeline.ru",
+            "email": "YulGVorobeva@example.ru",
             "adm_block": {
                 "id": 30335,
                 "name": "Блок по качеству и клиентскому опыту",
@@ -14742,7 +14742,7 @@
             "last_name": "Шарифуллина",
             "middle_name": "Григорьевна",
             "employee_number": "20360",
-            "email": "GSharifullina@beeline.ru",
+            "email": "GSharifullina@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -14796,7 +14796,7 @@
             "last_name": "Ерохина",
             "middle_name": "Валерьевна",
             "employee_number": "49090",
-            "email": "SErokhina@beeline.ru",
+            "email": "SErokhina@example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -14850,7 +14850,7 @@
             "last_name": "Куличенко",
             "middle_name": "Александровна",
             "employee_number": "49213",
-            "email": "MAKulichenko@saratov.beeline.ru",
+            "email": "MAKulichenko@saratov.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -14904,7 +14904,7 @@
             "last_name": "Зарипова",
             "middle_name": "Фаритовна",
             "employee_number": "51210",
-            "email": "GZaripova@ufa.beeline.ru",
+            "email": "GZaripova@ufa.example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -14958,7 +14958,7 @@
             "last_name": "Бобылкин",
             "middle_name": "Васильевич",
             "employee_number": "47787",
-            "email": "ABobylkin@spb.beeline.ru",
+            "email": "ABobylkin@spb.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -15012,7 +15012,7 @@
             "last_name": "Терентьева",
             "middle_name": "Владимировна",
             "employee_number": "475",
-            "email": "Irinat@beeline.ru",
+            "email": "Irinat@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -15066,7 +15066,7 @@
             "last_name": "Карсканов",
             "middle_name": "Витальевич",
             "employee_number": "49048",
-            "email": "SKarskanov@ekb.beeline.ru",
+            "email": "SKarskanov@ekb.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -15120,7 +15120,7 @@
             "last_name": "Рожнов",
             "middle_name": "Иванович",
             "employee_number": "43514",
-            "email": "DRozhnov@beeline.ru",
+            "email": "DRozhnov@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -15174,7 +15174,7 @@
             "last_name": "Копаева",
             "middle_name": "Борисовна",
             "employee_number": "20103",
-            "email": "NKopaeva@beeline.ru",
+            "email": "NKopaeva@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -15228,7 +15228,7 @@
             "last_name": "Тимохина",
             "middle_name": "Александровна",
             "employee_number": "42643",
-            "email": "OTimokhina@beeline.ru",
+            "email": "OTimokhina@example.ru",
             "adm_block": {
                 "id": 68034,
                 "name": "Служба ИТ обслуживания и поддержки пользователей",
@@ -15282,7 +15282,7 @@
             "last_name": "Логвинов",
             "middle_name": "Анатольевич",
             "employee_number": "46568",
-            "email": "OLogvinov@smolensk.beeline.ru",
+            "email": "OLogvinov@smolensk.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -15336,7 +15336,7 @@
             "last_name": "Кузищин",
             "middle_name": "Анатольевич",
             "employee_number": "1005",
-            "email": "DKusischin@beeline.ru",
+            "email": "DKusischin@example.ru",
             "adm_block": {
                 "id": 65653,
                 "name": "Блок по юридическим вопросам",
@@ -15390,7 +15390,7 @@
             "last_name": "Щербачев",
             "middle_name": "Владимирович",
             "employee_number": "46306",
-            "email": "NShcherbachev@beeline.ru",
+            "email": "NShcherbachev@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -15444,7 +15444,7 @@
             "last_name": "Малая",
             "middle_name": "Павловна",
             "employee_number": "46047",
-            "email": "AMalaya@beeline.ru",
+            "email": "AMalaya@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -15498,7 +15498,7 @@
             "last_name": "Буянова",
             "middle_name": "Алексеевна",
             "employee_number": "2611",
-            "email": "GBuyanova@beeline.ru",
+            "email": "GBuyanova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -15552,7 +15552,7 @@
             "last_name": "Шалышкина",
             "middle_name": "Николаевна",
             "employee_number": "49532",
-            "email": "IShalyshkina@beeline.ru",
+            "email": "IShalyshkina@example.ru",
             "adm_block": {
                 "id": 60452,
                 "name": "Блок по операторскому бизнесу",
@@ -15606,7 +15606,7 @@
             "last_name": "Финансова",
             "middle_name": "Владимировна",
             "employee_number": "12457",
-            "email": "MFinansova@beeline.ru",
+            "email": "MFinansova@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -15667,7 +15667,7 @@
             "last_name": "Воронцова",
             "middle_name": "Васильевна",
             "employee_number": "731",
-            "email": "LVorontsova@beeline.ru",
+            "email": "LVorontsova@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -15721,7 +15721,7 @@
             "last_name": "Дегтярев",
             "middle_name": "Владимирович",
             "employee_number": "50841",
-            "email": "ADegtyarev@beeline.ru",
+            "email": "ADegtyarev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -15775,7 +15775,7 @@
             "last_name": "Ходулин",
             "middle_name": "Владимирович",
             "employee_number": "43021",
-            "email": "AKhodulin@beeline.ru",
+            "email": "AKhodulin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -15829,7 +15829,7 @@
             "last_name": "Горелкин",
             "middle_name": "Вениаминович",
             "employee_number": "713",
-            "email": "Gluk@beeline.ru",
+            "email": "Gluk@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -15890,7 +15890,7 @@
             "last_name": "Кузнецова",
             "middle_name": "Валерьевна",
             "employee_number": "20046",
-            "email": "SKuznetsova@beeline.ru",
+            "email": "SKuznetsova@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -15944,7 +15944,7 @@
             "last_name": "Кораблев",
             "middle_name": "Александрович",
             "employee_number": "44591",
-            "email": "VKorablev@beeline.ru",
+            "email": "VKorablev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -15998,7 +15998,7 @@
             "last_name": "Власов",
             "middle_name": "Викторович",
             "employee_number": "45873",
-            "email": "MVlasov@beeline.ru",
+            "email": "MVlasov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -16066,7 +16066,7 @@
             "last_name": "Бобруйко",
             "middle_name": "Александровна",
             "employee_number": "44611",
-            "email": "NBobruyko@vlg.beeline.ru",
+            "email": "NBobruyko@vlg.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -16120,7 +16120,7 @@
             "last_name": "Тимина",
             "middle_name": "Олеговна",
             "employee_number": "46061",
-            "email": "ITimina@chb.beeline.ru",
+            "email": "ITimina@chb.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -16174,7 +16174,7 @@
             "last_name": "Митюсов",
             "middle_name": "Владимирович",
             "employee_number": "43775",
-            "email": "DMityusov@beeline.ru",
+            "email": "DMityusov@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -16228,7 +16228,7 @@
             "last_name": "Платонова",
             "middle_name": "Александровна",
             "employee_number": "773",
-            "email": "EPlatonova@beeline.ru",
+            "email": "EPlatonova@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -16282,7 +16282,7 @@
             "last_name": "Морозова",
             "middle_name": "Евгеньевна",
             "employee_number": "42223",
-            "email": "EMorozova@beeline.ru",
+            "email": "EMorozova@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -16336,7 +16336,7 @@
             "last_name": "Рудько",
             "middle_name": "Александровна",
             "employee_number": "42117",
-            "email": "SRudko@beeline.ru",
+            "email": "SRudko@example.ru",
             "adm_block": {
                 "id": 690,
                 "name": "Блок корпоративной безопасности",
@@ -16390,7 +16390,7 @@
             "last_name": "Шушакова",
             "middle_name": "Валерьевна",
             "employee_number": "49581",
-            "email": "VShushakova@nsk.beeline.ru",
+            "email": "VShushakova@nsk.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -16444,7 +16444,7 @@
             "last_name": "Лебедев",
             "middle_name": "Евгеньевич",
             "employee_number": "В312100",
-            "email": "VELebedev@beeline.ru",
+            "email": "VELebedev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -16478,7 +16478,7 @@
             "last_name": "Куренков",
             "middle_name": "Игоревич",
             "employee_number": "43505",
-            "email": "AKurenkov@beeline.ru",
+            "email": "AKurenkov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -16532,7 +16532,7 @@
             "last_name": "Бородинов",
             "middle_name": "Иванович",
             "employee_number": "46498",
-            "email": "FBorodinov@spb.beeline.ru",
+            "email": "FBorodinov@spb.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -16586,7 +16586,7 @@
             "last_name": "Пьянкова",
             "middle_name": "Сергеевна",
             "employee_number": "13057",
-            "email": "TPyankova@beeline.ru",
+            "email": "TPyankova@example.ru",
             "adm_block": {
                 "id": 54452,
                 "name": "Блок по взаимодействию с органами государственной власти",
@@ -16640,7 +16640,7 @@
             "last_name": "Сачек",
             "middle_name": "Ивановна",
             "employee_number": "44886",
-            "email": "OSachek@beeline.ru",
+            "email": "OSachek@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -16701,7 +16701,7 @@
             "last_name": "Данилов",
             "middle_name": "Николаевич",
             "employee_number": "45385",
-            "email": "VDanilov@nnv.beeline.ru",
+            "email": "VDanilov@nnv.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -16755,7 +16755,7 @@
             "last_name": "Тюлькина",
             "middle_name": "Анатольевна",
             "employee_number": "2530",
-            "email": "ETyulkina@beeline.ru",
+            "email": "ETyulkina@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -16809,7 +16809,7 @@
             "last_name": "Киселев",
             "middle_name": "Викторович",
             "employee_number": "46846",
-            "email": "EKiselev@gal.beeline.ru",
+            "email": "EKiselev@gal.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -16870,7 +16870,7 @@
             "last_name": "Салищева",
             "middle_name": "Валентиновна",
             "employee_number": "46714",
-            "email": "TSalishcheva@tula.beeline.ru",
+            "email": "TSalishcheva@tula.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -16924,7 +16924,7 @@
             "last_name": "Павлов",
             "middle_name": "Валерьевич",
             "employee_number": "49120",
-            "email": "APavlov@chb.beeline.ru",
+            "email": "APavlov@chb.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -16978,7 +16978,7 @@
             "last_name": "Васильев",
             "middle_name": "Владимирович",
             "employee_number": "48725",
-            "email": "SVasilev@krs.beeline.ru",
+            "email": "SVasilev@krs.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -17039,7 +17039,7 @@
             "last_name": "Филинов",
             "middle_name": "Юрьевич",
             "employee_number": "47881",
-            "email": "SFilinov@beeline.ru",
+            "email": "SFilinov@example.ru",
             "adm_block": null,
             "func_block": null,
             "phone_set": [],
@@ -17057,7 +17057,7 @@
             "last_name": "Антонова",
             "middle_name": "Николаевна",
             "employee_number": "46987",
-            "email": "ZAntonova@nnv.beeline.ru",
+            "email": "ZAntonova@nnv.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -17111,7 +17111,7 @@
             "last_name": "Кушаков",
             "middle_name": "Анатольевич",
             "employee_number": "42810",
-            "email": "VKushakov@beeline.ru",
+            "email": "VKushakov@example.ru",
             "adm_block": {
                 "id": 67837,
                 "name": "Блок по вопросам системы оперативно-розыскных мероприятий",
@@ -17165,7 +17165,7 @@
             "last_name": "Морозова",
             "middle_name": "Анатольевна",
             "employee_number": "48176",
-            "email": "MAMorozova@beeline.ru",
+            "email": "MAMorozova@example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -17219,7 +17219,7 @@
             "last_name": "Журавлев",
             "middle_name": "Александрович",
             "employee_number": "51607",
-            "email": "EZhuravlev@beeline.ru",
+            "email": "EZhuravlev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -17273,7 +17273,7 @@
             "last_name": "Рыбакова",
             "middle_name": "Львовна",
             "employee_number": "12544",
-            "email": "ARybakova@beeline.ru",
+            "email": "ARybakova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -17327,7 +17327,7 @@
             "last_name": "Рябцев",
             "middle_name": "Юрьевич",
             "employee_number": "50122",
-            "email": "SRyabtsev@beeline.ru",
+            "email": "SRyabtsev@example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -17381,7 +17381,7 @@
             "last_name": "Шерстюк",
             "middle_name": "Юрьевна",
             "employee_number": "45901",
-            "email": "ESherstyuk@kmr.beeline.ru",
+            "email": "ESherstyuk@kmr.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -17435,7 +17435,7 @@
             "last_name": "Сильнова",
             "middle_name": "Юрьевна",
             "employee_number": "45304",
-            "email": "MSilnova@beeline.ru",
+            "email": "MSilnova@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -17489,7 +17489,7 @@
             "last_name": "Колтовской",
             "middle_name": "Георгиевич",
             "employee_number": "46045",
-            "email": "VKoltovskoy@beeline.ru",
+            "email": "VKoltovskoy@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -17550,7 +17550,7 @@
             "last_name": "Шкарупа",
             "middle_name": "Ивановна",
             "employee_number": "45669",
-            "email": "VShkarupa@orl.beeline.ru",
+            "email": "VShkarupa@orl.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -17604,7 +17604,7 @@
             "last_name": "Шеленговский",
             "middle_name": "Валентинович",
             "employee_number": "45213",
-            "email": "DShelengovskiy@kaluga.beeline.ru",
+            "email": "DShelengovskiy@kaluga.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -17665,7 +17665,7 @@
             "last_name": "Гущук",
             "middle_name": "Анатольевна",
             "employee_number": "46182",
-            "email": "SGushchuk@beeline.ru",
+            "email": "SGushchuk@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -17719,7 +17719,7 @@
             "last_name": "Катамадзе",
             "middle_name": "Бондович",
             "employee_number": "47728",
-            "email": "DKatamadze@beeline.ru",
+            "email": "DKatamadze@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -17773,7 +17773,7 @@
             "last_name": "Анисимова",
             "middle_name": "Валерьевна",
             "employee_number": "51205",
-            "email": "IAnisimova@ivn.beeline.ru",
+            "email": "IAnisimova@ivn.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -17827,7 +17827,7 @@
             "last_name": "Панченко",
             "middle_name": "Григорьевич",
             "employee_number": "49124",
-            "email": "IPanchenko@beeline.ru",
+            "email": "IPanchenko@example.ru",
             "adm_block": {
                 "id": 69313,
                 "name": "Дирекция по развитию систем предприятия",
@@ -17881,7 +17881,7 @@
             "last_name": "Дубовик",
             "middle_name": "Александрович",
             "employee_number": "47934",
-            "email": "YDubovik@vlg.beeline.ru",
+            "email": "YDubovik@vlg.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -17935,7 +17935,7 @@
             "last_name": "Неборская",
             "middle_name": "Владимировна",
             "employee_number": "43782",
-            "email": "ENeborskaya@beeline.ru",
+            "email": "ENeborskaya@example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -17989,7 +17989,7 @@
             "last_name": "Робышев",
             "middle_name": "Александрович",
             "employee_number": "В72005",
-            "email": "DRobyshev@beeline.ru",
+            "email": "DRobyshev@example.ru",
             "adm_block": null,
             "func_block": null,
             "phone_set": [
@@ -18015,7 +18015,7 @@
             "last_name": "Ибатуллин",
             "middle_name": "Авхатович",
             "employee_number": "49028",
-            "email": "RIbatullin@tms.beeline.ru",
+            "email": "RIbatullin@tms.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -18076,7 +18076,7 @@
             "last_name": "Сечной",
             "middle_name": "Викторович",
             "employee_number": "42254",
-            "email": "ISechnoy@beeline.ru",
+            "email": "ISechnoy@example.ru",
             "adm_block": {
                 "id": 60452,
                 "name": "Блок по операторскому бизнесу",
@@ -18130,7 +18130,7 @@
             "last_name": "Курихина",
             "middle_name": "Александровна",
             "employee_number": "999",
-            "email": "OKurikhina@beeline.ru",
+            "email": "OKurikhina@example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -18184,7 +18184,7 @@
             "last_name": "Степанов",
             "middle_name": "Вячеславович",
             "employee_number": "271",
-            "email": "AVStepanov@beeline.ru",
+            "email": "AVStepanov@example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -18230,7 +18230,7 @@
             "last_name": "Яковлева",
             "middle_name": "Алексеевна",
             "employee_number": "47967",
-            "email": "VYakovleva@beeline.ru",
+            "email": "VYakovleva@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -18284,7 +18284,7 @@
             "last_name": "Жарков",
             "middle_name": "Игоревич",
             "employee_number": "52400",
-            "email": "DZharkov@beeline.ru",
+            "email": "DZharkov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -18338,7 +18338,7 @@
             "last_name": "Рашутина",
             "middle_name": "Феликсовна",
             "employee_number": "47977",
-            "email": "NRashutina@rnd.beeline.ru",
+            "email": "NRashutina@rnd.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -18392,7 +18392,7 @@
             "last_name": "Щиталин",
             "middle_name": "Владимирович",
             "employee_number": "46975",
-            "email": "EShchitalin@beeline.ru",
+            "email": "EShchitalin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -18446,7 +18446,7 @@
             "last_name": "Максименко",
             "middle_name": "Васильевич",
             "employee_number": "51976",
-            "email": "AMaksimenko@krd.beeline.ru",
+            "email": "AMaksimenko@krd.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -18500,7 +18500,7 @@
             "last_name": "Бабляк",
             "middle_name": "Константинович",
             "employee_number": "49683",
-            "email": "ABablyak@nsk.beeline.ru",
+            "email": "ABablyak@nsk.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -18554,7 +18554,7 @@
             "last_name": "Ефимова",
             "middle_name": "Анатольевна",
             "employee_number": "45685",
-            "email": "GEfimova@orl.beeline.ru",
+            "email": "GEfimova@orl.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -18608,7 +18608,7 @@
             "last_name": "Лаптев",
             "middle_name": "Васильевич",
             "employee_number": "В10273",
-            "email": "KLaptev@beeline.ru",
+            "email": "KLaptev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -18642,7 +18642,7 @@
             "last_name": "Сергеева",
             "middle_name": "Юрьевна",
             "employee_number": "46737",
-            "email": "ESergeeva@ivn.beeline.ru",
+            "email": "ESergeeva@ivn.example.ru",
             "adm_block": {
                 "id": 690,
                 "name": "Блок корпоративной безопасности",
@@ -18696,7 +18696,7 @@
             "last_name": "Цыпленков",
             "middle_name": "Иванович",
             "employee_number": "48402",
-            "email": "VTsyplenkov@vladimir.beeline.ru",
+            "email": "VTsyplenkov@vladimir.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -18750,7 +18750,7 @@
             "last_name": "Белоус",
             "middle_name": "Григорьевна",
             "employee_number": "47586",
-            "email": "OBelous@beeline.ru",
+            "email": "OBelous@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -18804,7 +18804,7 @@
             "last_name": "Шелковой",
             "middle_name": "Александрович",
             "employee_number": "44836",
-            "email": "OShelkovoy@ryazan.beeline.ru",
+            "email": "OShelkovoy@ryazan.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -18858,7 +18858,7 @@
             "last_name": "Флорова",
             "middle_name": "Алексеевна",
             "employee_number": "51867",
-            "email": "NFlorova@spb.beeline.ru",
+            "email": "NFlorova@spb.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -18912,7 +18912,7 @@
             "last_name": "Полушкина",
             "middle_name": "Анатольевна",
             "employee_number": "48943",
-            "email": "OPolushkina@beeline.ru",
+            "email": "OPolushkina@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -18966,7 +18966,7 @@
             "last_name": "Жандарова",
             "middle_name": "Борисовна",
             "employee_number": "49481",
-            "email": "OZhandarova@beeline.ru",
+            "email": "OZhandarova@example.ru",
             "adm_block": {
                 "id": 69653,
                 "name": "Дирекция разработки программных решений",
@@ -19020,7 +19020,7 @@
             "last_name": "Пекарев",
             "middle_name": "Сергеевич",
             "employee_number": "50361",
-            "email": "DPekarev@beeline.ru",
+            "email": "DPekarev@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -19074,7 +19074,7 @@
             "last_name": "Мурзина",
             "middle_name": "Александровна",
             "employee_number": "49734",
-            "email": "TMurzina@krd.beeline.ru",
+            "email": "TMurzina@krd.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -19128,7 +19128,7 @@
             "last_name": "Коновалов",
             "middle_name": "Васильевич",
             "employee_number": "42546",
-            "email": "VKonovalov@beeline.ru",
+            "email": "VKonovalov@example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -19182,7 +19182,7 @@
             "last_name": "Накаряков",
             "middle_name": "Евгеньевич",
             "employee_number": "49198",
-            "email": "GNakaryakov@ekb.beeline.ru",
+            "email": "GNakaryakov@ekb.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -19243,7 +19243,7 @@
             "last_name": "Анкудинова",
             "middle_name": "Анатольевна",
             "employee_number": "44941",
-            "email": "EAnkudinova@ast.beeline.ru",
+            "email": "EAnkudinova@ast.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -19297,7 +19297,7 @@
             "last_name": "Гаврютенко",
             "middle_name": "Тимерхановна",
             "employee_number": "45602",
-            "email": "MGavryutenko@nsk.beeline.ru",
+            "email": "MGavryutenko@nsk.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -19351,7 +19351,7 @@
             "last_name": "Буцкий",
             "middle_name": "Олегович",
             "employee_number": "В238137",
-            "email": "KButskiy@kzn.beeline.ru",
+            "email": "KButskiy@kzn.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -19397,7 +19397,7 @@
             "last_name": "Грибков",
             "middle_name": "Геннадиевич",
             "employee_number": "2653",
-            "email": "MGribkov@beeline.ru",
+            "email": "MGribkov@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -19451,7 +19451,7 @@
             "last_name": "Аршиева",
             "middle_name": "Александровна",
             "employee_number": "51572",
-            "email": "MArshieva@vdk.beeline.ru",
+            "email": "MArshieva@vdk.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -19505,7 +19505,7 @@
             "last_name": "Эберт",
             "middle_name": "Федоровна",
             "employee_number": "47928",
-            "email": "VEbert@spb.beeline.ru",
+            "email": "VEbert@spb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -19559,7 +19559,7 @@
             "last_name": "Чуприн",
             "middle_name": "Станиславович",
             "employee_number": "51061",
-            "email": "SChuprin@beeline.ru",
+            "email": "SChuprin@example.ru",
             "adm_block": {
                 "id": 69313,
                 "name": "Дирекция по развитию систем предприятия",
@@ -19620,7 +19620,7 @@
             "last_name": "Бабышин",
             "middle_name": "Вячеславович",
             "employee_number": "50064",
-            "email": "EBabyshin@pnz.beeline.ru",
+            "email": "EBabyshin@pnz.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -19681,7 +19681,7 @@
             "last_name": "Эстеркина",
             "middle_name": "Олеговна",
             "employee_number": "51277",
-            "email": "MEsterkina@spb.beeline.ru",
+            "email": "MEsterkina@spb.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -19735,7 +19735,7 @@
             "last_name": "Ежова",
             "middle_name": "Григорьевна",
             "employee_number": "51540",
-            "email": "OGEzhova@beeline.ru",
+            "email": "OGEzhova@example.ru",
             "adm_block": {
                 "id": 69313,
                 "name": "Дирекция по развитию систем предприятия",
@@ -19796,7 +19796,7 @@
             "last_name": "Варакин",
             "middle_name": "Александрович",
             "employee_number": "48163",
-            "email": "VVarakin@beeline.ru",
+            "email": "VVarakin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -19850,7 +19850,7 @@
             "last_name": "Халикина",
             "middle_name": "Валерьевна",
             "employee_number": "45088",
-            "email": "YKhalikina@ssc.beeline.ru",
+            "email": "YKhalikina@ssc.example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -19904,7 +19904,7 @@
             "last_name": "Садовник",
             "middle_name": "Анатольевич",
             "employee_number": "47856",
-            "email": "SSadovnik@ksm.beeline.ru",
+            "email": "SSadovnik@ksm.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -19958,7 +19958,7 @@
             "last_name": "Абросимов",
             "middle_name": "Михайлович",
             "employee_number": "42359",
-            "email": "AAbrosimov@beeline.ru",
+            "email": "AAbrosimov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -20012,7 +20012,7 @@
             "last_name": "Кузнецов",
             "middle_name": "Николаевич",
             "employee_number": "45892",
-            "email": "AKuznetsov.nsk@beeline.ru",
+            "email": "AKuznetsov.nsk@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -20066,7 +20066,7 @@
             "last_name": "Никитин",
             "middle_name": "Владимирович",
             "employee_number": "48358",
-            "email": "ONikitin@spb.beeline.ru",
+            "email": "ONikitin@spb.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -20127,7 +20127,7 @@
             "last_name": "Савин",
             "middle_name": "Вячеславович",
             "employee_number": "42691",
-            "email": "VSavin@beeline.ru",
+            "email": "VSavin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -20181,7 +20181,7 @@
             "last_name": "Алейникова",
             "middle_name": "Алексеевна",
             "employee_number": "596",
-            "email": "EAleinikova@beeline.ru",
+            "email": "EAleinikova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -20235,7 +20235,7 @@
             "last_name": "Грибков",
             "middle_name": "Владимирович",
             "employee_number": "56",
-            "email": "KGribkov@beeline.ru",
+            "email": "KGribkov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -20289,7 +20289,7 @@
             "last_name": "Сухонин",
             "middle_name": "Юрьевич",
             "employee_number": "52963",
-            "email": "VSukhonin@yaroslavl.beeline.ru",
+            "email": "VSukhonin@yaroslavl.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -20350,7 +20350,7 @@
             "last_name": "Курочкина",
             "middle_name": "Сергеевна",
             "employee_number": "51354",
-            "email": "YKurochkina@nsk.beeline.ru",
+            "email": "YKurochkina@nsk.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -20404,7 +20404,7 @@
             "last_name": "Распопин",
             "middle_name": "Викторович",
             "employee_number": "В231700",
-            "email": "ARaspopin@nlc.beeline.ru",
+            "email": "ARaspopin@nlc.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -20445,7 +20445,7 @@
             "last_name": "Юханов",
             "middle_name": "Владимирович",
             "employee_number": "43203",
-            "email": "DYukhanov@beeline.ru",
+            "email": "DYukhanov@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -20499,7 +20499,7 @@
             "last_name": "Мотов",
             "middle_name": "Викторович",
             "employee_number": "42968",
-            "email": "VMotov@beeline.ru",
+            "email": "VMotov@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -20553,7 +20553,7 @@
             "last_name": "Винникова",
             "middle_name": "Михайловна",
             "employee_number": "315",
-            "email": "IVinnikova@beeline.ru",
+            "email": "IVinnikova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -20607,7 +20607,7 @@
             "last_name": "Школина",
             "middle_name": "Ивановна",
             "employee_number": "44703",
-            "email": "NShkolina@saratov.beeline.ru",
+            "email": "NShkolina@saratov.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -20661,7 +20661,7 @@
             "last_name": "Исаенко",
             "middle_name": "Александровна",
             "employee_number": "49034",
-            "email": "EIsaenko@clb.beeline.ru",
+            "email": "EIsaenko@clb.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -20715,7 +20715,7 @@
             "last_name": "Лебедева",
             "middle_name": "Владимировна",
             "employee_number": "12469",
-            "email": "OLebedeva@ssc.beeline.ru",
+            "email": "OLebedeva@ssc.example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -20769,7 +20769,7 @@
             "last_name": "Козлов",
             "middle_name": "Анатольевич",
             "employee_number": "740",
-            "email": "KKozlov@beeline.ru",
+            "email": "KKozlov@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -20830,7 +20830,7 @@
             "last_name": "Белова",
             "middle_name": "Алексеевна",
             "employee_number": "53067",
-            "email": "IBelova@smr.beeline.ru",
+            "email": "IBelova@smr.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -20884,7 +20884,7 @@
             "last_name": "Семенова",
             "middle_name": "Игоревна",
             "employee_number": "49332",
-            "email": "YSemenova@rnd.beeline.ru",
+            "email": "YSemenova@rnd.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -20938,7 +20938,7 @@
             "last_name": "Кривошеев",
             "middle_name": "Андреевич",
             "employee_number": "122977",
-            "email": "AAKrivosheev@beeline.ru",
+            "email": "AAKrivosheev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -20992,7 +20992,7 @@
             "last_name": "Некрасов",
             "middle_name": "Витальевич",
             "employee_number": "52184",
-            "email": "KNekrasov@prm.beeline.ru",
+            "email": "KNekrasov@prm.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -21053,7 +21053,7 @@
             "last_name": "Калинина",
             "middle_name": "Александровна",
             "employee_number": "107311",
-            "email": "NatAlKalinina@kzn.beeline.ru",
+            "email": "NatAlKalinina@kzn.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -21107,7 +21107,7 @@
             "last_name": "Павлова",
             "middle_name": "Игоревна",
             "employee_number": "138430",
-            "email": "DIPavlova@izk.beeline.ru",
+            "email": "DIPavlova@izk.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -21161,7 +21161,7 @@
             "last_name": "Смирнов",
             "middle_name": "Петрович",
             "employee_number": "49038",
-            "email": "APSmirnov@spb.beeline.ru",
+            "email": "APSmirnov@spb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -21222,7 +21222,7 @@
             "last_name": "Жеребцова",
             "middle_name": "Владимировна",
             "employee_number": "51492",
-            "email": "AZherebtsova@beeline.ru",
+            "email": "AZherebtsova@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -21276,7 +21276,7 @@
             "last_name": "Ревин",
             "middle_name": "Викторович",
             "employee_number": "47051",
-            "email": "ARevin@beeline.ru",
+            "email": "ARevin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -21337,7 +21337,7 @@
             "last_name": "Качарский",
             "middle_name": "Владимирович",
             "employee_number": "12100",
-            "email": "DKatcharski@beeline.ru",
+            "email": "DKatcharski@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -21391,7 +21391,7 @@
             "last_name": "Костерин",
             "middle_name": "Андреевич",
             "employee_number": "52298",
-            "email": "AKosterin@beeline.ru",
+            "email": "AKosterin@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -21445,7 +21445,7 @@
             "last_name": "Шумилина",
             "middle_name": "Александровна",
             "employee_number": "52165",
-            "email": "MShumilina@srt.beeline.ru",
+            "email": "MShumilina@srt.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -21506,7 +21506,7 @@
             "last_name": "Шишкин",
             "middle_name": "Владимирович",
             "employee_number": "48865",
-            "email": "EShishkin@barnaul.beeline.ru",
+            "email": "EShishkin@barnaul.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -21567,7 +21567,7 @@
             "last_name": "Резяпкина",
             "middle_name": "Владимировна",
             "employee_number": "51608",
-            "email": "ORezyapkina@beeline.ru",
+            "email": "ORezyapkina@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -21621,7 +21621,7 @@
             "last_name": "Орлов",
             "middle_name": "Николаевич",
             "employee_number": "12111",
-            "email": "AOrlov@beeline.ru",
+            "email": "AOrlov@example.ru",
             "adm_block": {
                 "id": 690,
                 "name": "Блок корпоративной безопасности",
@@ -21675,7 +21675,7 @@
             "last_name": "Лисакова",
             "middle_name": "Васильевна",
             "employee_number": "43115",
-            "email": "VLisakova@beeline.ru",
+            "email": "VLisakova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -21729,7 +21729,7 @@
             "last_name": "Назарчук",
             "middle_name": "Анатольевна",
             "employee_number": "47906",
-            "email": "ONazarchuk@beeline.ru",
+            "email": "ONazarchuk@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -21783,7 +21783,7 @@
             "last_name": "Мазурин",
             "middle_name": "Станиславович",
             "employee_number": "1727",
-            "email": "AMazurin@beeline.ru",
+            "email": "AMazurin@example.ru",
             "adm_block": {
                 "id": 67837,
                 "name": "Блок по вопросам системы оперативно-розыскных мероприятий",
@@ -21837,7 +21837,7 @@
             "last_name": "Бондарев",
             "middle_name": "Давидович",
             "employee_number": "48565",
-            "email": "SBondarev@nlc.beeline.ru",
+            "email": "SBondarev@nlc.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -21898,7 +21898,7 @@
             "last_name": "Ильина",
             "middle_name": "Сергеевна",
             "employee_number": "45648",
-            "email": "OIlina@belgorod.beeline.ru",
+            "email": "OIlina@belgorod.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -21952,7 +21952,7 @@
             "last_name": "Кожин",
             "middle_name": "Леонидович",
             "employee_number": "619",
-            "email": "VKozhin@beeline.ru",
+            "email": "VKozhin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -22013,7 +22013,7 @@
             "last_name": "Магомедов",
             "middle_name": "Мирзабалаевич",
             "employee_number": "48562",
-            "email": "RMagomedov@mkl.beeline.ru",
+            "email": "RMagomedov@mkl.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -22074,7 +22074,7 @@
             "last_name": "Жигачев",
             "middle_name": "Владимирович",
             "employee_number": "45258",
-            "email": "AZhigachev@beeline.ru",
+            "email": "AZhigachev@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -22135,7 +22135,7 @@
             "last_name": "Беляков",
             "middle_name": "Владимирович",
             "employee_number": "46062",
-            "email": "SBelyakov@beeline.ru",
+            "email": "SBelyakov@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -22196,7 +22196,7 @@
             "last_name": "Адыев",
             "middle_name": "Ильвирович",
             "employee_number": "52888",
-            "email": "VAdyev@ekb.beeline.ru",
+            "email": "VAdyev@ekb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -22257,7 +22257,7 @@
             "last_name": "Кравчина",
             "middle_name": "Владимировна",
             "employee_number": "47812",
-            "email": "IVKravchina@srt.beeline.ru",
+            "email": "IVKravchina@srt.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -22311,7 +22311,7 @@
             "last_name": "Красотин",
             "middle_name": "Анатольевич",
             "employee_number": "53218",
-            "email": "SKrasotin@beeline.ru",
+            "email": "SKrasotin@example.ru",
             "adm_block": {
                 "id": 9403,
                 "name": "Блок по корпоративному бизнесу",
@@ -22365,7 +22365,7 @@
             "last_name": "Пастуховский",
             "middle_name": "Сергеевич",
             "employee_number": "43453",
-            "email": "YuPastukhovskiy@beeline.ru",
+            "email": "YuPastukhovskiy@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -22419,7 +22419,7 @@
             "last_name": "Бурыкина",
             "middle_name": "Сергеевна",
             "employee_number": "45328",
-            "email": "OSBurykina@beeline.ru",
+            "email": "OSBurykina@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -22473,7 +22473,7 @@
             "last_name": "Челышев",
             "middle_name": "Игоревич",
             "employee_number": "719",
-            "email": "AChelyshev@beeline.ru",
+            "email": "AChelyshev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -22534,7 +22534,7 @@
             "last_name": "Бабенышева",
             "middle_name": "Владимировна",
             "employee_number": "48330",
-            "email": "EBabenysheva@vladimir.beeline.ru",
+            "email": "EBabenysheva@vladimir.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -22588,7 +22588,7 @@
             "last_name": "Куренков",
             "middle_name": "Николаевич",
             "employee_number": "В34315",
-            "email": "AKurenkov@ryazan.beeline.ru",
+            "email": "AKurenkov@ryazan.example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -22614,7 +22614,7 @@
             "last_name": "Баронина",
             "middle_name": "Георгиевна",
             "employee_number": "53207",
-            "email": "OBaronina@mgt.beeline.ru",
+            "email": "OBaronina@mgt.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -22675,7 +22675,7 @@
             "last_name": "Дмитриев",
             "middle_name": "Игоревич",
             "employee_number": "45818",
-            "email": "VDmitriev@nsk.beeline.ru",
+            "email": "VDmitriev@nsk.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -22729,7 +22729,7 @@
             "last_name": "Копачинский",
             "middle_name": "Леонидович",
             "employee_number": "44217",
-            "email": "EKopachinskiy@beeline.ru",
+            "email": "EKopachinskiy@example.ru",
             "adm_block": {
                 "id": 54452,
                 "name": "Блок по взаимодействию с органами государственной власти",
@@ -22783,7 +22783,7 @@
             "last_name": "Белов",
             "middle_name": "Андреевич",
             "employee_number": "52065",
-            "email": "ABelov@ekb.beeline.ru",
+            "email": "ABelov@ekb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -22837,7 +22837,7 @@
             "last_name": "Калашников",
             "middle_name": "Васильевич",
             "employee_number": "В214349",
-            "email": "YKalashnikov@beeline.ru",
+            "email": "YKalashnikov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -22871,7 +22871,7 @@
             "last_name": "Кондратенко",
             "middle_name": "Федоровна",
             "employee_number": "45805",
-            "email": "IKondratenko@nsk.beeline.ru",
+            "email": "IKondratenko@nsk.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -22932,7 +22932,7 @@
             "last_name": "Аникин",
             "middle_name": "Анатольевич",
             "employee_number": "53137",
-            "email": "AAAnikin@spb.beeline.ru",
+            "email": "AAAnikin@spb.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -22993,7 +22993,7 @@
             "last_name": "Пономарев",
             "middle_name": "Львович",
             "employee_number": "47675",
-            "email": "YPonomarev@beeline.ru",
+            "email": "YPonomarev@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -23054,7 +23054,7 @@
             "last_name": "Краснощеков",
             "middle_name": "Николаевич",
             "employee_number": "49638",
-            "email": "IKrasnoshchekov@rnd.beeline.ru",
+            "email": "IKrasnoshchekov@rnd.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -23115,7 +23115,7 @@
             "last_name": "Марковкин",
             "middle_name": "Александрович",
             "employee_number": "В214466",
-            "email": "VMarkovkin@beeline.ru",
+            "email": "VMarkovkin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -23149,7 +23149,7 @@
             "last_name": "Федотов",
             "middle_name": "Андреевич",
             "employee_number": "53204",
-            "email": "IFedotov@ptz.beeline.ru",
+            "email": "IFedotov@ptz.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -23210,7 +23210,7 @@
             "last_name": "Расулова",
             "middle_name": "Эльдаровна",
             "employee_number": "В222865",
-            "email": "NRasulova@beeline.ru",
+            "email": "NRasulova@example.ru",
             "adm_block": null,
             "func_block": null,
             "phone_set": [
@@ -23243,7 +23243,7 @@
             "last_name": "Ксенафонтова",
             "middle_name": "Николаевна",
             "employee_number": "53433",
-            "email": "EKsenafontova@rnd.beeline.ru",
+            "email": "EKsenafontova@rnd.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -23297,7 +23297,7 @@
             "last_name": "Китросер",
             "middle_name": "Аркадьевич",
             "employee_number": "49779",
-            "email": "IKitroser@beeline.ru",
+            "email": "IKitroser@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -23351,7 +23351,7 @@
             "last_name": "Павлова",
             "middle_name": "Сергеевна",
             "employee_number": "45571",
-            "email": "ASPavlova@nsk.beeline.ru",
+            "email": "ASPavlova@nsk.example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -23412,7 +23412,7 @@
             "last_name": "Бакич",
             "middle_name": "Сергеевна",
             "employee_number": "753",
-            "email": "TBakich@beeline.ru",
+            "email": "TBakich@example.ru",
             "adm_block": {
                 "id": 60013,
                 "name": "Департамент разработки систем розничного бизнеса",
@@ -23466,7 +23466,7 @@
             "last_name": "Ларина",
             "middle_name": "Анатольевна",
             "employee_number": "20253",
-            "email": "ALarina@beeline.ru",
+            "email": "ALarina@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -23520,7 +23520,7 @@
             "last_name": "Шапошникова",
             "middle_name": "Борисовна",
             "employee_number": "45731",
-            "email": "NShaposhnikova@nsk.beeline.ru",
+            "email": "NShaposhnikova@nsk.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -23581,7 +23581,7 @@
             "last_name": "Костромин",
             "middle_name": "Станиславович",
             "employee_number": "47929",
-            "email": "SKostromin@beeline.ru",
+            "email": "SKostromin@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -23635,7 +23635,7 @@
             "last_name": "Никулин",
             "middle_name": "Анатольевич",
             "employee_number": "12738",
-            "email": "LNikulin@beeline.ru",
+            "email": "LNikulin@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -23689,7 +23689,7 @@
             "last_name": "Лазарев",
             "middle_name": "Александрович",
             "employee_number": "52360",
-            "email": "MALazarev@beeline.ru",
+            "email": "MALazarev@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -23743,7 +23743,7 @@
             "last_name": "Скирдина",
             "middle_name": "Геннадьевна",
             "employee_number": "46637",
-            "email": "ISkirdina@vrn.beeline.ru",
+            "email": "ISkirdina@vrn.example.ru",
             "adm_block": {
                 "id": 68034,
                 "name": "Служба ИТ обслуживания и поддержки пользователей",
@@ -23797,7 +23797,7 @@
             "last_name": "Тозарева",
             "middle_name": "Викторовна",
             "employee_number": "48446",
-            "email": "ETozareva@ryazan.beeline.ru",
+            "email": "ETozareva@ryazan.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -23851,7 +23851,7 @@
             "last_name": "Кузнецова",
             "middle_name": "Сергеевна",
             "employee_number": "В72001",
-            "email": "GSKuznetsova@beeline.ru",
+            "email": "GSKuznetsova@example.ru",
             "adm_block": null,
             "func_block": null,
             "phone_set": [],
@@ -23869,7 +23869,7 @@
             "last_name": "Евсеева",
             "middle_name": "Анатольевна",
             "employee_number": "45413",
-            "email": "LEvseeva@beeline.ru",
+            "email": "LEvseeva@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -23923,7 +23923,7 @@
             "last_name": "Корнеев",
             "middle_name": "Владимирович",
             "employee_number": "50059",
-            "email": "AVKorneev@pnz.beeline.ru",
+            "email": "AVKorneev@pnz.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -23984,7 +23984,7 @@
             "last_name": "Кудинов",
             "middle_name": "Александрович",
             "employee_number": "804",
-            "email": "AKudinov@beeline.ru",
+            "email": "AKudinov@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -24045,7 +24045,7 @@
             "last_name": "Кириакиди",
             "middle_name": "Сергеевич",
             "employee_number": "52966",
-            "email": "KKiriakidi@vrn.beeline.ru",
+            "email": "KKiriakidi@vrn.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -24099,7 +24099,7 @@
             "last_name": "Миклашевский",
             "middle_name": "Владимирович",
             "employee_number": "12636",
-            "email": "Alexm@beeline.ru",
+            "email": "Alexm@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -24145,7 +24145,7 @@
             "last_name": "Безбородов",
             "middle_name": "Маркович",
             "employee_number": "44615",
-            "email": "KBezborodov@beeline.ru",
+            "email": "KBezborodov@example.ru",
             "adm_block": {
                 "id": 60177,
                 "name": "Департамент разработки платформенных решений",
@@ -24206,7 +24206,7 @@
             "last_name": "Чмихайленко",
             "middle_name": "Владимировна",
             "employee_number": "52859",
-            "email": "NChmikhaylenko@crp.beeline.ru",
+            "email": "NChmikhaylenko@crp.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -24260,7 +24260,7 @@
             "last_name": "Терекулов",
             "middle_name": "Максимович",
             "employee_number": "48638",
-            "email": "ATerekulov@nlc.beeline.ru",
+            "email": "ATerekulov@nlc.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -24321,7 +24321,7 @@
             "last_name": "Комаров",
             "middle_name": "Владимирович",
             "employee_number": "42995",
-            "email": "IVKomarov@beeline.ru",
+            "email": "IVKomarov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -24375,7 +24375,7 @@
             "last_name": "Урываев",
             "middle_name": "Александрович",
             "employee_number": "456",
-            "email": "DUryvaev@beeline.ru",
+            "email": "DUryvaev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -24429,7 +24429,7 @@
             "last_name": "Догадаев",
             "middle_name": "Анатольевич",
             "employee_number": "49622",
-            "email": "SDogadaev@ksm.beeline.ru",
+            "email": "SDogadaev@ksm.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -24483,7 +24483,7 @@
             "last_name": "Кудряшова",
             "middle_name": "Николаевна",
             "employee_number": "49130",
-            "email": "EKudryashova@beeline.ru",
+            "email": "EKudryashova@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -24537,7 +24537,7 @@
             "last_name": "Лукина",
             "middle_name": "Сергеевна",
             "employee_number": "45802",
-            "email": "ESLukina@nsk.beeline.ru",
+            "email": "ESLukina@nsk.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -24591,7 +24591,7 @@
             "last_name": "Новоселов",
             "middle_name": "Александрович",
             "employee_number": "В312246",
-            "email": "ANovoselov@beeline.ru",
+            "email": "ANovoselov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -24625,7 +24625,7 @@
             "last_name": "Мардашев",
             "middle_name": "Викторович",
             "employee_number": "53125",
-            "email": "YMardashev@beeline.ru",
+            "email": "YMardashev@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -24679,7 +24679,7 @@
             "last_name": "Семенов",
             "middle_name": "Анатольевич",
             "employee_number": "50007",
-            "email": "VSemenov@nsk.beeline.ru",
+            "email": "VSemenov@nsk.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -24740,7 +24740,7 @@
             "last_name": "Джабраилов",
             "middle_name": "Абдулферзович",
             "employee_number": "44956",
-            "email": "ADzhabrailov@mkl.beeline.ru",
+            "email": "ADzhabrailov@mkl.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -24801,7 +24801,7 @@
             "last_name": "Алексеева",
             "middle_name": "Генриховна",
             "employee_number": "44794",
-            "email": "OAlekseeva@ksm.beeline.ru",
+            "email": "OAlekseeva@ksm.example.ru",
             "adm_block": {
                 "id": 690,
                 "name": "Блок корпоративной безопасности",
@@ -24855,7 +24855,7 @@
             "last_name": "Подгайская",
             "middle_name": "Владимировна",
             "employee_number": "46191",
-            "email": "EkaterinaPodgayskaya@oms.beeline.ru",
+            "email": "EkaterinaPodgayskaya@oms.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -24909,7 +24909,7 @@
             "last_name": "Пономарев",
             "middle_name": "Валерьевич",
             "employee_number": "52656",
-            "email": "DPonomarev@vol.beeline.ru",
+            "email": "DPonomarev@vol.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -24963,7 +24963,7 @@
             "last_name": "Левина",
             "middle_name": "Витальевна",
             "employee_number": "45226",
-            "email": "GLevina@ssc.beeline.ru",
+            "email": "GLevina@ssc.example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -25017,7 +25017,7 @@
             "last_name": "Башлачев",
             "middle_name": "Владиславович",
             "employee_number": "43078",
-            "email": "ABashlachev@beeline.ru",
+            "email": "ABashlachev@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
@@ -25078,7 +25078,7 @@
             "last_name": "Юрканова",
             "middle_name": "Ильинична",
             "employee_number": "49290",
-            "email": "NIYurkanova@spb.beeline.ru",
+            "email": "NIYurkanova@spb.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -25132,7 +25132,7 @@
             "last_name": "Толчинский",
             "middle_name": "Ефимович",
             "employee_number": "17",
-            "email": "George@beeline.ru",
+            "email": "George@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -25186,7 +25186,7 @@
             "last_name": "Трушина",
             "middle_name": "Рафаэльевна",
             "employee_number": "12801",
-            "email": "VTrushina@beeline.ru",
+            "email": "VTrushina@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -25240,7 +25240,7 @@
             "last_name": "Бачерикова",
             "middle_name": "Сергеевна",
             "employee_number": "51914",
-            "email": "YuBacherikova@beeline.ru",
+            "email": "YuBacherikova@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -25294,7 +25294,7 @@
             "last_name": "Егоров",
             "middle_name": "Михайлович",
             "employee_number": "45381",
-            "email": "SEgorov@nnv.beeline.ru",
+            "email": "SEgorov@nnv.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -25355,7 +25355,7 @@
             "last_name": "Васильева",
             "middle_name": "Сергеевна",
             "employee_number": "52669",
-            "email": "OSVasileva@saratov.beeline.ru",
+            "email": "OSVasileva@saratov.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -25409,7 +25409,7 @@
             "last_name": "Бентхен",
             "middle_name": "Сергеевич",
             "employee_number": "46855",
-            "email": "ABentkhen@barnaul.beeline.ru",
+            "email": "ABentkhen@barnaul.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -25463,7 +25463,7 @@
             "last_name": "Шакурова",
             "middle_name": "Ильдусовна",
             "employee_number": "46589",
-            "email": "LShakurova@kzn.beeline.ru",
+            "email": "LShakurova@kzn.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -25517,7 +25517,7 @@
             "last_name": "Чижмарь",
             "middle_name": "Юрьевич",
             "employee_number": "50755",
-            "email": "YChizhmar@yol.beeline.ru",
+            "email": "YChizhmar@yol.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -25578,7 +25578,7 @@
             "last_name": "Чазов",
             "middle_name": "Геннадьевич",
             "employee_number": "53374",
-            "email": "VChazov@prm.beeline.ru",
+            "email": "VChazov@prm.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -25646,7 +25646,7 @@
             "last_name": "Ермолаева",
             "middle_name": "Викторовна",
             "employee_number": "46861",
-            "email": "OErmolaeva@barnaul.beeline.ru",
+            "email": "OErmolaeva@barnaul.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -25700,7 +25700,7 @@
             "last_name": "Савченко",
             "middle_name": "Васильевич",
             "employee_number": "51896",
-            "email": "OSavchenko@barnaul.beeline.ru",
+            "email": "OSavchenko@barnaul.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -25754,7 +25754,7 @@
             "last_name": "Шишкова",
             "middle_name": "Николаевна",
             "employee_number": "44748",
-            "email": "EShishkova@srt.beeline.ru",
+            "email": "EShishkova@srt.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -25815,7 +25815,7 @@
             "last_name": "Саранчук",
             "middle_name": "Владимирович",
             "employee_number": "В405343",
-            "email": "ESaranchuk@spb.beeline.ru",
+            "email": "ESaranchuk@spb.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -25849,7 +25849,7 @@
             "last_name": "Ветров",
             "middle_name": "Леонидович",
             "employee_number": "52137",
-            "email": "SVetrov@crp.beeline.ru",
+            "email": "SVetrov@crp.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -25903,7 +25903,7 @@
             "last_name": "Реш",
             "middle_name": "Эдуардович",
             "employee_number": "832",
-            "email": "GResh@beeline.ru",
+            "email": "GResh@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -25957,7 +25957,7 @@
             "last_name": "Иванова",
             "middle_name": "Геннадьевна",
             "employee_number": "45315",
-            "email": "LGIvanova@ssc.beeline.ru",
+            "email": "LGIvanova@ssc.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -26011,7 +26011,7 @@
             "last_name": "Малков",
             "middle_name": "Валерьевич",
             "employee_number": "48178",
-            "email": "YMalkov@nsk.beeline.ru",
+            "email": "YMalkov@nsk.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -26072,7 +26072,7 @@
             "last_name": "Голубева",
             "middle_name": "Николаевна",
             "employee_number": "49886",
-            "email": "SKudryavtseva@krs.beeline.ru",
+            "email": "SKudryavtseva@krs.example.ru",
             "adm_block": {
                 "id": 690,
                 "name": "Блок корпоративной безопасности",
@@ -26126,7 +26126,7 @@
             "last_name": "Курмаева",
             "middle_name": "Александровна",
             "employee_number": "161598",
-            "email": "MKurmaeva@beeline.ru",
+            "email": "MKurmaeva@example.ru",
             "adm_block": {
                 "id": 3031,
                 "name": "Финансовый блок",
@@ -26180,7 +26180,7 @@
             "last_name": "Зубова",
             "middle_name": "Владимировна",
             "employee_number": "45342",
-            "email": "EZubova@brs.beeline.ru",
+            "email": "EZubova@brs.example.ru",
             "adm_block": {
                 "id": 3742,
                 "name": "Региональное управление Южного региона",
@@ -26234,7 +26234,7 @@
             "last_name": "Семенчук",
             "middle_name": "Петрович",
             "employee_number": "47722",
-            "email": "YSemenchuk@beeline.ru",
+            "email": "YSemenchuk@example.ru",
             "adm_block": {
                 "id": 60013,
                 "name": "Департамент разработки систем розничного бизнеса",
@@ -26288,7 +26288,7 @@
             "last_name": "Фоменко",
             "middle_name": "Вячеславович",
             "employee_number": "В226506",
-            "email": "AFomenko.abn@beeline.ru",
+            "email": "AFomenko.abn@example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -26322,7 +26322,7 @@
             "last_name": "Варжель",
             "middle_name": "Валентинович",
             "employee_number": "46761",
-            "email": "MVarzhel@rnd.beeline.ru",
+            "email": "MVarzhel@rnd.example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -26376,7 +26376,7 @@
             "last_name": "Смольянинов",
             "middle_name": "Владимирович",
             "employee_number": "53636",
-            "email": "VSmolyaninov@ekb.beeline.ru",
+            "email": "VSmolyaninov@ekb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -26437,7 +26437,7 @@
             "last_name": "Бояринова",
             "middle_name": "Анатольевна",
             "employee_number": "53674",
-            "email": "LBoyarinova@spb.beeline.ru",
+            "email": "LBoyarinova@spb.example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -26491,7 +26491,7 @@
             "last_name": "Шапошникова",
             "middle_name": "Ханифовна",
             "employee_number": "49158",
-            "email": "EShaposhnikova@beeline.ru",
+            "email": "EShaposhnikova@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -26552,7 +26552,7 @@
             "last_name": "Дубинин",
             "middle_name": "Владимирович",
             "employee_number": "45816",
-            "email": "IDubinin@nsk.beeline.ru",
+            "email": "IDubinin@nsk.example.ru",
             "adm_block": {
                 "id": 56913,
                 "name": "Блок по информационным технологиям",
@@ -26620,7 +26620,7 @@
             "last_name": "Орлов",
             "middle_name": "Сергеевич",
             "employee_number": "53376",
-            "email": "POrlov@beeline.ru",
+            "email": "POrlov@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -26681,7 +26681,7 @@
             "last_name": "Фронский",
             "middle_name": "Владимирович",
             "employee_number": "53733",
-            "email": "DFronskiy@beeline.ru",
+            "email": "DFronskiy@example.ru",
             "adm_block": {
                 "id": 55211,
                 "name": "Блок по работе с данными",
@@ -26727,7 +26727,7 @@
             "last_name": "Игумнов",
             "middle_name": "Анатольевич",
             "employee_number": "53315",
-            "email": "VIgumnov@arh.beeline.ru",
+            "email": "VIgumnov@arh.example.ru",
             "adm_block": {
                 "id": 3784,
                 "name": "Региональное управление Западного региона",
@@ -26781,7 +26781,7 @@
             "last_name": "Утробин",
             "middle_name": "Леонидович",
             "employee_number": "53108",
-            "email": "DUtrobin@beeline.ru",
+            "email": "DUtrobin@example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -26835,7 +26835,7 @@
             "last_name": "Гатина",
             "middle_name": "Ильдусовна",
             "employee_number": "46606",
-            "email": "DGatina@kzn.beeline.ru",
+            "email": "DGatina@kzn.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -26889,7 +26889,7 @@
             "last_name": "Попова",
             "middle_name": "Николаевна",
             "employee_number": "48601",
-            "email": "LPopova@krs.beeline.ru",
+            "email": "LPopova@krs.example.ru",
             "adm_block": {
                 "id": 40278,
                 "name": "Региональное управление Восточного региона",
@@ -26950,7 +26950,7 @@
             "last_name": "Бритова",
             "middle_name": "Владимировна",
             "employee_number": "53447",
-            "email": "SVBritova@srt.beeline.ru",
+            "email": "SVBritova@srt.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -27004,7 +27004,7 @@
             "last_name": "Козаченко",
             "middle_name": "Викторовна",
             "employee_number": "52704",
-            "email": "LKozachenko@beeline.ru",
+            "email": "LKozachenko@example.ru",
             "adm_block": {
                 "id": 54334,
                 "name": "Технический блок",
@@ -27058,7 +27058,7 @@
             "last_name": "Попова",
             "middle_name": "Евгеньевна",
             "employee_number": "48934",
-            "email": "KEPopova@beeline.ru",
+            "email": "KEPopova@example.ru",
             "adm_block": {
                 "id": 13691,
                 "name": "Блок по управлению персоналом, организационному развитию и поддержке",
@@ -27104,7 +27104,7 @@
             "last_name": "Шкабунов",
             "middle_name": "Александрович",
             "employee_number": "49836",
-            "email": "GShkabunov@nch.beeline.ru",
+            "email": "GShkabunov@nch.example.ru",
             "adm_block": {
                 "id": 40304,
                 "name": "Региональное управление Центрального региона",
@@ -27150,7 +27150,7 @@
             "last_name": "Шохина",
             "middle_name": "Игоревна",
             "employee_number": "48858",
-            "email": "AShokhina@nsk.beeline.ru",
+            "email": "AShokhina@nsk.example.ru",
             "adm_block": {
                 "id": 55212,
                 "name": "Блок \"Розничный бизнес\"",
@@ -27204,7 +27204,7 @@
             "last_name": "Чеканова",
             "middle_name": "Владимировна",
             "employee_number": "47537",
-            "email": "TChekanova@beeline.ru",
+            "email": "TChekanova@example.ru",
             "adm_block": {
                 "id": 2695,
                 "name": "Региональное управление Московского региона",
